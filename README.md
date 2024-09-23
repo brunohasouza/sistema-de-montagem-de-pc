@@ -28,7 +28,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina local:
 1. **Clone o repositório**
    
    ```bash
-   git clone https://github.com/seu-usuario/sistema-de-montagem-de-pc.git
+   git clone https://github.com/brunohasouza/sistema-de-montagem-de-pc.git
    ```
 
 2. **Instale as dependências**
