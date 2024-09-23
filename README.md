@@ -2,7 +2,7 @@
 
 Sistema desenvolvido para a disciplina de Padrões de Projetos de Software Orientado a Objetos no IFPE.
 
-Este projeto tem como objetivo fornecer uma plataforma para a montagem de computadores personalizados, permitindo aos usuários selecionar e combinar diferentes componentes de hardware, como CPU, GPU, memória, armazenamento, entre outros. O sistema utiliza diversos padrões de projeto para garantir flexibilidade, extensibilidade e manutenção do código, incluindo os padrões Strategy, Decorator, e Adapter.
+Este projeto tem como objetivo fornecer uma plataforma para a montagem de computadores personalizados, permitindo aos usuários selecionar e combinar diferentes componentes de hardware, como CPU, GPU, memória, armazenamento, entre outros. O sistema utiliza diversos padrões de projeto para garantir flexibilidade, extensibilidade e manutenção do código, incluindo os padrões State, Strategy, Factory e Adapter.
 
 Funcionalidades principais:
 - Seleção de componentes de hardware (State e Adapter)
