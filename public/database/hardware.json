@@ -1,0 +1,2090 @@
+[
+    {
+        "id": 63735,
+        "title": "HD WD Blue 1TB, 3.5', SATA - WD10EZEX",
+        "manufacturer": "Western Digital",
+        "price": 46666,
+        "image": "https://images.kabum.com.br/produtos/fotos/63735/63735_1433187476_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 74800,
+        "title": "Fonte Aerocool VX-350, 350W, sem cabo, Preto - EN57181",
+        "manufacturer": "Aerocool",
+        "price": 14090,
+        "image": "https://images.kabum.com.br/produtos/fotos/74800/74800_1518185075_index_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 95803,
+        "title": "HD Seagate 4TB BarraCuda, 3.5', SATA - ST4000DM004",
+        "manufacturer": "Seagate",
+        "price": 82777,
+        "image": "https://images.kabum.com.br/produtos/fotos/95803/95803_1522867513_index_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 96696,
+        "title": "Fonte Aerocool KCAS, 400W, 80 Plus White - KCAS-400W",
+        "manufacturer": "Aerocool",
+        "price": 28294,
+        "image": "https://images.kabum.com.br/produtos/fotos/96696/96696_1_1526474061_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 97515,
+        "title": "Fonte Gigabyte P650B, 650W, 80 Plus Bronze, PFC Ativo, com cabo, Preto - GP-P650B/BR",
+        "manufacturer": "Gigabyte",
+        "price": 45454,
+        "image": "https://images.kabum.com.br/produtos/fotos/97515/97515_3_1532357225_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 100006,
+        "title": "Gabinete Gamer Corsair Obsidian Series 1000D, Super-Tower, RGB, Lateral em Vidro Temperado, Preto, CC-9011148-WW",
+        "manufacturer": "Corsair",
+        "price": 399990,
+        "image": "https://images.kabum.com.br/produtos/fotos/100006/100006_1548788873_index_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 100916,
+        "title": "HD Seagate 2TB BarraCuda, 3.5', SATA - ST2000DM008",
+        "manufacturer": "Seagate",
+        "price": 55681,
+        "image": "https://images.kabum.com.br/produtos/fotos/100916/100916_1552934430_index_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 102749,
+        "title": "SSD ADATA XPG 1TB, Spectrix S40G, M.2, Leitura: 3500MB/s e Gravação: 3000MB/s - AS40G-1TT-C",
+        "manufacturer": "XPG",
+        "price": 61362,
+        "image": "https://images.kabum.com.br/produtos/fotos/102749/ssd-adata-xpg-spectrix-s40g-1tb-m-2-leitura-3500mb-s-gravacao-3000mb-s-as40g-1tt-c_ssd-adata-xpg-spectrix-s40g-1tb-m-2-leitura-3500mb-s-gravacao-3000mb-s-as40g-1tt-c_1565375352_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 103280,
+        "title": "Fonte XPG Core Reactor, 650W, 80 Plus Gold Modular",
+        "manufacturer": "XPG",
+        "price": 68181,
+        "image": "https://images.kabum.com.br/produtos/fotos/103280/fonte-xpg-core-reactor-650w-80-plus-gold-modular_fonte-xpg-core-reactor-650w-80-plus-gold-modular_1571153114_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 103281,
+        "title": "Fonte XPG Core Reactor, 750W, 80 Plus Gold, Modular, com cabo, Preto - Core Reactor",
+        "manufacturer": "XPG",
+        "price": 73862,
+        "image": "https://images.kabum.com.br/produtos/fotos/103281/fonte-xpg-core-reactor-750w-80-plus-gold-modular_1571153415_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 103282,
+        "title": "Fonte XPG Core Reactor, 850W, 80 Plus Gold, Modular, com cabo, Preto - Core Reactor",
+        "manufacturer": "XPG",
+        "price": 113635,
+        "image": "https://images.kabum.com.br/produtos/fotos/103282/fonte-xpg-core-reactor-850w-80-plus-gold-modular_fonte-xpg-core-reactor-850w-80-plus-gold-modular_1571154124_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 109045,
+        "title": "Gabinete Gamer Sharkoon LIT100, Mid Tower, RGB, com FAN, Lateral em Vidro - LIT100",
+        "manufacturer": "Sharkoon",
+        "price": 42034,
+        "image": "https://images.kabum.com.br/produtos/fotos/109045/gabinete-gamer-sharkoon-lit100-mid-tower-rgb-com-fan-lateral-em-vidro-lit100_1577990169_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 110814,
+        "title": "Memória RAM Corsair Vengeance LPX, 32GB (2x16GB) 2400MHz DDR4 CL16 Black - CMK32GX4M2A2400C16",
+        "manufacturer": "Corsair",
+        "price": 60909,
+        "image": "https://images.kabum.com.br/produtos/fotos/110814/memoria-corsair-vengeance-lpx-32gb-2x16gb-2400mhz-ddr4-c16-black-cmk32gx4m2a2400c16_1589918161_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 110815,
+        "title": "Memória RAM Corsair Vengeance LPX, 32GB (2x16GB), 2666MHz, DDR4, CL16, Preto - CMK32GX4M2A2666C16",
+        "manufacturer": "Corsair",
+        "price": 61110,
+        "image": "https://images.kabum.com.br/produtos/fotos/110815/memoria-corsair-vengeance-lpx-32gb-2x16gb-2666mhz-ddr4-c16-black-cmk32gx4m2a2666c16_1590006655_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 110856,
+        "title": "Memória RAM Corsair Vengeance LPX, 64GB (2x32GB), 3200MHz, DDR4, CL16, Preto - CMK64GX4M2E3200C16",
+        "manufacturer": "Corsair",
+        "price": 121817,
+        "image": "https://images.kabum.com.br/produtos/fotos/110856/memoria-corsair-vengeance-lpx-64gb-2x32gb-3200mhz-ddr4-c16-black-cmk64gx4m2e3200c16_1590075693_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 111005,
+        "title": "Memória RAM Corsair Vengeance Pro, RGB, 32GB (2x16GB), 2666MHz, DDR4, CL16, Preto - CMW32GX4M2A2666C16",
+        "manufacturer": "Corsair",
+        "price": 66363,
+        "image": "https://images.kabum.com.br/produtos/fotos/111005/memoria-corsair-vengeance-rgb-pro-32gb-2x16gb-2666mhz-ddr4-c16-black-cmw32gx4m2a2666c16_1589919714_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 111024,
+        "title": "Memória RAM Corsair Vengeance RGB Pro, 64GB (2x32GB), 3200MHz, DDR4, CL16, Preto - CMW64GX4M2E3200C16",
+        "manufacturer": "Corsair",
+        "price": 133332,
+        "image": "https://images.kabum.com.br/produtos/fotos/111024/memoria-corsair-vengeance-rgb-pro-64gb-2x32gb-3200mhz-ddr4-c16-black-cmw64gx4m2e3200c16_1589977132_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 111637,
+        "title": "SSD SATA Crucial BX500, 1TB, 2.5\", Leitura: 540MB/s e Gravação: 500MB/s, Preto - CT1000BX500SSD1",
+        "manufacturer": "Crucial",
+        "price": 54544,
+        "image": "https://images.kabum.com.br/produtos/fotos/111637/ssd-crucial-bx500-1tb-sata-leituras-540mb-s-e-gravacoes-500mb-s-ct1000bx500ssd1_1591965584_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 112684,
+        "title": "Gabinete Gamer Cooler Master MasterBox TD500 Mesh, Mid Tower, ARGB, com FAN, Lateral em Vidro - MCB-D500D-KGNN-S01",
+        "manufacturer": "Cooler Master",
+        "price": 63626,
+        "image": "https://images.kabum.com.br/produtos/fotos/112684/gabinete-gamer-cooler-master-masterbox-td500-mesh-mid-tower-argb-com-fan-lateral-em-vidro-mcb-d500d-kgnn-s01_1590767745_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 112689,
+        "title": "HD Seagate IronWolf NAS, 8TB, SATA - ST8000VN004",
+        "manufacturer": "Seagate",
+        "price": 167221,
+        "image": "https://images.kabum.com.br/produtos/fotos/112689/hd-seagate-ironwolf-8tb-sata-st8000vn004_1592507795_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 114223,
+        "title": "Memória RAM Gamer Husky Gaming, 16GB, 2666MHz, DDR4, CL19, Preto - HGMF002",
+        "manufacturer": "Husky Gaming",
+        "price": 26135,
+        "image": "https://images.kabum.com.br/produtos/fotos/114223/memoria-gamer-husky-gaming-16gb-2666mhz-ddr4-cl19-preto-hgmf002_1701698686_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 115377,
+        "title": "Fonte Redragon RGPS, 600W, 80 Plus Bronze, PFC Ativo, Sem Cabo, Preto - GC-PS002-1",
+        "manufacturer": "Redragon",
+        "price": 32726,
+        "image": "https://images.kabum.com.br/produtos/fotos/115377/fonte-redragon-rgps-600w-80-plus-gc-ps002-1_1595274916_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 115450,
+        "title": "Gabinete Gamer Corsair 4000D Airflow, Mid Tower, ATX, Lateral em Vidro Temperado, com Fan, Branco - CC-9011201-WW",
+        "manufacturer": "Corsair",
+        "price": 73674,
+        "image": "https://images.kabum.com.br/produtos/fotos/115450/gabinete-gamer-corsair-4000d-airflow-mid-tower-com-fan-lateral-em-vidro-temperado-branco-cc-9011201-ww_1598029208_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 115455,
+        "title": "Gabinete Gamer Corsair iCUE 4000X, RGB, Mid-Tower, ATX, Lateral e Frontal em Vidro Temperado, Com FAN, Branco - CC-9011205-WW",
+        "manufacturer": "Corsair",
+        "price": 113635,
+        "image": "https://images.kabum.com.br/produtos/fotos/115455/gabinete-gamer-corsair-icue-4000x-mid-tower-rgb-com-fan-lateral-e-frontal-em-vidro-branco-cc-9011205-ww_1598019228_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 115818,
+        "title": "Fonte Gamemax GP650, 650W, 80 Plus Bronze, PFC Ativo, Preto - GP650",
+        "manufacturer": "Gamemax",
+        "price": 35226,
+        "image": "https://images.kabum.com.br/produtos/fotos/115818/fonte-gamemax-gp650-650w-80-plus-bronze-pfc-ativo-preto-gp650_1716911472_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 128550,
+        "title": "Gabinete Gamer Redragon Wideload, Mid Tower, Lateral e Frontal em Vidro - GC-802-1",
+        "manufacturer": "Redragon",
+        "price": 68171,
+        "image": "https://images.kabum.com.br/produtos/fotos/128550/gabinete-gamer-redragon-wideload-mid-tower-lateral-e-frontal-em-vidro-gc-802-1_1672160956_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 136022,
+        "title": "Fonte Fortrek Black Hawk 400W, 80 Plus White, Preto - 70458",
+        "manufacturer": "Fortrek",
+        "price": 21590,
+        "image": "https://images.kabum.com.br/produtos/fotos/136022/fonte-fortrek-black-hawk-400w-80-plus-white-preto-70458_1721226664_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 144984,
+        "title": "Gabinete Gamer XPG Starker Compact, Mid Tower, Lateral em Vidro Temperado, 2x Cooler Fan ARGB, Preto - 75260179",
+        "manufacturer": "XPG",
+        "price": 48852,
+        "image": "https://images.kabum.com.br/produtos/fotos/144984/gabinete-gamer-xpg-starker-compact-mid-tower-2x-fan-1x-traseira-argb-1x-frontal-lateral-em-vidro-temperado-preto-75260179_1611694597_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 144995,
+        "title": "Gabinete Gamer XPG Starker Compact, Mid Tower, Lateral em Vidro Temperado, 2x Cooler Fan ARGB, Branco - 75260180",
+        "manufacturer": "XPG",
+        "price": 48852,
+        "image": "https://images.kabum.com.br/produtos/fotos/144995/gabinete-gamer-xpg-starker-compact-mid-tower-2x-fan-1x-traseira-argb-1x-frontal-lateral-em-vidro-temperado-branco-75260180_1611694755_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 148953,
+        "title": "Gabinete Gamer Corsair iCUE 5000X, RGB, Mid-Tower, ATX, Frente e Lateral em Vidro Temperado, 3x FANs Frontais, Branco - CC-9011213-WW",
+        "manufacturer": "Corsair",
+        "price": 126125,
+        "image": "https://images.kabum.com.br/produtos/fotos/148953/gabinete-gamer-corsair-icue-5000x-rgb-mid-tower-atx-frente-e-lateral-em-vidro-temperado-3x-fans-frontais-branco-cc-9011213-ww_1683205322_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 162665,
+        "title": "Memória RAM Gamer Husky Gaming Avalanche, 16GB, 3200MHz, DDR4, CL19, Preto - HGMF008",
+        "manufacturer": "Husky Gaming",
+        "price": 28408,
+        "image": "https://images.kabum.com.br/produtos/fotos/162665/memoria-gamer-husky-gaming-avalanche-16gb-3200mhz-ddr4-cl19-hgmf008_1630604969_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 163616,
+        "title": "SSD 1 TB Samsung 980 PRO Series NVMe, M.2 2280, PCIe 4.0x4, Leitura: 7000MB/s e 5000MB/s - MZ-V8P1T0B/AM",
+        "manufacturer": "Samsung",
+        "price": 102272,
+        "image": "https://images.kabum.com.br/produtos/fotos/163616/ssd-1-tb-samsung-980-pro-series-nvme-m-2-2280-pcie-4-0x4-leitura-7000mb-s-e-5000mb-s-mz-v8p1t0b-am_1673449032_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 164863,
+        "title": "HD WD Purple Pro 10TB, 7200RPM, Cache 256MB, 3.5\", SATA - WD101PURP",
+        "manufacturer": "Western Digital",
+        "price": 264443,
+        "image": "https://images.kabum.com.br/produtos/fotos/164863/hd-wd-purple-pro-10tb-3-5-7200rpm-cache-256mb-sata-wd101purp_1633525152_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 169967,
+        "title": "SSD ADATA XPG 1TB, S70 Blade, PCIe Gen4x4, M.2 2280, NVMe, Leitura: 7400MB/s e Gravação: 5500MB/s, 3D NAND - AGAMMIXS70B-1T-CS",
+        "manufacturer": "XPG",
+        "price": 79544,
+        "image": "https://images.kabum.com.br/produtos/fotos/169967/ssd-xpg-s70-blade-1tb-m-2-nvme-pcie-gen4x4-leitura-7400mb-s-e-gravacao-5500mb-s-3d-nand-agammixs70b-1t-cs_1628862634_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 172366,
+        "title": "Memória RAM Kingston Fury Beast, 16GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB1/16",
+        "manufacturer": "Kingston",
+        "price": 36110,
+        "image": "https://images.kabum.com.br/produtos/fotos/172366/memoria-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16_1626271100_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 172368,
+        "title": "Memória RAM Kingston Fury Beast, 64GB (2x32GB), 3200MHz, DDR4, CL16, Preto - KF432C16BBK2/64",
+        "manufacturer": "Kingston",
+        "price": 125112,
+        "image": "https://images.kabum.com.br/produtos/fotos/172368/memoria-kingston-fury-beast-64gb-2x32gb-3200mhz-ddr4-cl16-preto-kf432c16bbk2-64_1626272099_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 210904,
+        "title": "Gabinete Gamer Corsair 7000D Airflow, Full Tower, Lateral em Vidro Temperado, Branco - CC-9011219-WW",
+        "manufacturer": "Corsair",
+        "price": 189472,
+        "image": "https://images.kabum.com.br/produtos/fotos/210904/gabinete-gamer-corsair-7000d-airflow-full-tower-lateral-em-vidro-temperado-branco-cc-9011219-ww_1636559397_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 232237,
+        "title": "SSD 1 TB Corsair Force MP600 PRO XT, M.2 PCIe, NVMe, Leitura: 7100MB/s e Gravação: 5800MB/s - CSSD-F1000GBMP600PXT",
+        "manufacturer": "Corsair",
+        "price": 102272,
+        "image": "https://images.kabum.com.br/produtos/fotos/232237/ssd-corsair-force-mp600-pro-xt-1tb-m-2-pcie-nvme-leituras-7100mb-s-e-gravacoes-6800mb-s-cssd-f1000gbmp600pxt_1632338556_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 241046,
+        "title": "Processador Intel Core i5-12600K, 3.7GHz (4.9GHz Max Turbo), Cache 20MB, 10 Núcleos, 16 Threads, LGA 1700, Vídeo Integrado - BX8071512600K",
+        "manufacturer": "Intel",
+        "price": 152940,
+        "image": "https://images.kabum.com.br/produtos/fotos/241046/processador-intel-core-i5-12600k-cache-16mb-3-7ghz-4-9ghz-max-turbo-lga-1700-bx8071512600k_1634828164_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 241047,
+        "title": "Processador Intel Core i5-12600KF, 3.7GHz (4.9Ghz Max Turbo), Cache 20MB, Quad Core, 16 Threads, LGA 1700 - BX8071512600KF",
+        "manufacturer": "Intel",
+        "price": 124772,
+        "image": "https://images.kabum.com.br/produtos/fotos/241047/processador-intel-12600kf-bx8071512600kf_1635257865_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 241048,
+        "title": "Processador Intel Core i7-12700K, 3.6GHz (5.0GHz Max Turbo), 12 Núcleos, 20 Threads, LGA 1700, Vídeo Integrado - BX8071512700K",
+        "manufacturer": "Intel",
+        "price": 223528,
+        "image": "https://images.kabum.com.br/produtos/fotos/241048/processador-intel-core-i7-12700k-cache-25mb-3-6ghz-5-0ghz-max-turbo-lga-1700-bx8071512700k_1634830258_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 241049,
+        "title": "Processador Intel Core i7-12700KF, 3.6GHz (5.0GHz Max Turbo), Cache 25MB, 12 Núcleos, 20 Threads, LGA 1700 - BX8071512700KF",
+        "manufacturer": "Intel",
+        "price": 218822,
+        "image": "https://images.kabum.com.br/produtos/fotos/241049/processador-intel-core-i7-12700kf-cache-25mb-3-6ghz-5-0ghz-max-turbo-lga-1700-bx8071512700kf_1634829835_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 241050,
+        "title": "Processador Intel Core i9-12900K, 3.2GHz (5.2GHz Max Turbo), Cache 30MB, 16 Núcleos, 24 Threads, LGA 1700, Vídeo Integrado - BX8071512900K",
+        "manufacturer": "Intel",
+        "price": 318181,
+        "image": "https://images.kabum.com.br/produtos/fotos/241050/processador-intel-core-i9-12900k-3-2ghz-5-2ghz-max-turbo-cache-30mb-16-nucleos-24-threads-lga-1700-video-integrado-bx8071512900k_1686669423_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 241051,
+        "title": "Processador Intel Core i9-12900KF, 3.2GHz (5.2GHz Max Turbo), Cache 30MB, 16 Núcleos, 24 Threads, LGA 1700 - BX8071512900KF",
+        "manufacturer": "Intel",
+        "price": 284090,
+        "image": "https://images.kabum.com.br/produtos/fotos/241051/processador-intel-12900kf-bx8071512900kf_1635258488_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 272331,
+        "title": "SSD 1TB Kingston KC3000, M.2 2280 PCIe, NVMe, Leitura: 7000MB/s e Gravação: 6000MB/s - SKC3000S/1024G",
+        "manufacturer": "Kingston",
+        "price": 85226,
+        "image": "https://images.kabum.com.br/produtos/fotos/272331/ssd-kingston-kc3000-1024gb-m-2-2280-pcie-nvme-leituras-7-000mb-s-gravacao-6-000mb-s-skc3000s-1024g_1637324305_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 272356,
+        "title": "SSD 1 TB Kingston Fury Renegade, M.2 2280 PCIe, NVMe, Leitura: 7300MB/s e Gravação: 6000MB/s, Preto - SFYRS/1000G",
+        "manufacturer": "Kingston",
+        "price": 96590,
+        "image": "https://images.kabum.com.br/produtos/fotos/272356/ssd-kingston-fury-renegade-1000gb-m-2-2280-pcie-nvme-leituras-7-300mb-s-gravacao-6-000mb-s-sfyrs-1000g_1637328670_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 276263,
+        "title": "Placa Mãe Asus Prime H610M-A D4, LGA 1700 H610, mATX, DDR4",
+        "manufacturer": "ASUS",
+        "price": 84658,
+        "image": "https://images.kabum.com.br/produtos/fotos/276263/placa-mae-asus-prime-h610m-a-d4-lga-1700-h610-matx-ddr4_1675105751_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 282207,
+        "title": "Memória RAM Corsair Vengeance, 32GB (2x16GB), 4800MHz, DDR5, CL40, Preto - CMK32GX5M2A4800C40",
+        "manufacturer": "Corsair",
+        "price": 88887,
+        "image": "https://images.kabum.com.br/produtos/fotos/282207/memoria-corsair-vengeance-32gb-2x16gb-4800hz-ddr5-cl40-preto-cmk32gx5m2a4800c40_1644334909_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 283713,
+        "title": "Processador Intel Core i5-12400, 2.5GHz (4.4GHz Max Turbo), Cache 18MB, LGA 1700 - BX8071512400",
+        "manufacturer": "Intel",
+        "price": 113635,
+        "image": "https://images.kabum.com.br/produtos/fotos/283713/processador-intel-core-i5-12400-cache-xmb-xghz-xghz-max-turbo-lga-1700-bx8071512400_1640031464_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 283717,
+        "title": "Processador Intel Core i7-12700F, 2.1GHz (4.9GHz Max Turbo), Cache 25MB, LGA 1700 - BX8071512700F",
+        "manufacturer": "Intel",
+        "price": 187499,
+        "image": "https://images.kabum.com.br/produtos/fotos/283717/processador-intel-core-i7-12700f-cache-xmb-xghz-xghz-max-turbo-lga-1700-bx8071512700f_1640093433_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 283718,
+        "title": "Processador Intel Core i5-12400F, 2.5GHz (4.4GHz Max Turbo), Cache 18MB, LGA 1700 - BX8071512400F",
+        "manufacturer": "Intel",
+        "price": 88888,
+        "image": "https://images.kabum.com.br/produtos/fotos/283718/processador-intel-core-i5-12400f-cache-xmb-xghz-xghz-max-turbo-lga-1700-bx8071512400f_1640094446_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 283719,
+        "title": "Processador Intel Core i3-12100F, 3.3GHz (4.3GHz Max Turbo), Cache 12MB, LGA 1700 - BX8071512100F",
+        "manufacturer": "Intel",
+        "price": 60878,
+        "image": "https://images.kabum.com.br/produtos/fotos/283719/processador-intel-core-i3-12100f-cache-xmb-xghz-xghz-max-turbo-lga-1700-bx8071512100f_1640095096_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 286773,
+        "title": "Memória RAM Corsair Vengeance, 32GB (2x16GB), 5200MHz, DDR5, CL40, para Intel XMP, Preto - CMK32GX5M2B5200C40",
+        "manufacturer": "Corsair",
+        "price": 88522,
+        "image": "https://images.kabum.com.br/produtos/fotos/286773/memoria-corsair-vengeance-32gb-2x16gb-5200mhz-ddr5-cl40-preto-cmk32gx5m2b5200c40_1639586487_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 286797,
+        "title": "Memória RAM Corsair Vengeance, 32GB (2x16GB), 5600MHz, DDR5, CL36, Preto - CMK32GX5M2B5600C36",
+        "manufacturer": "Corsair",
+        "price": 106666,
+        "image": "https://images.kabum.com.br/produtos/fotos/286797/memoria-corsair-vengeance-32gb-2x16gb-5600mhz-ddr5-cl36-preto-cmk32gx5m2b5600c36_1639586432_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 301107,
+        "title": "Memória RAM XPG Lancer, RGB, 32GB (2x16GB), 5200MHz, DDR5, CL38 - AX5U5200C3816G-DCLARBK",
+        "manufacturer": "XPG",
+        "price": 100666,
+        "image": "https://images.kabum.com.br/produtos/fotos/301107/memoria-xpg-lancer-rgb-32gb-2x16gb-5200mhz-ddr5-cl38-ax5u5200c3816g-dclarbk_1642685341_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 304871,
+        "title": "Memória RAM Corsair Vengeance RT, RGB, 32GB (2x16GB), 3200MHz, DDR4, CL16, Preto - CMN32GX4M2Z3200C16",
+        "manufacturer": "Corsair",
+        "price": 74469,
+        "image": "https://images.kabum.com.br/produtos/fotos/304871/memoria-corsair-vengeance-rt-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-preto-cmn32gx4m2z3200c16_1643048967_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 311023,
+        "title": "SSD SATA WD Green, 1TB, 2.5\", Leitura: 545MB/s e Gravação: 550MB/s, Preto - WDS100T3G0A",
+        "manufacturer": "Western Digital",
+        "price": 56817,
+        "image": "https://images.kabum.com.br/produtos/fotos/311023/ssd-wd-green-1-tb-sata-iii-leitura-545mb-s-gravacao-550mb-s-wds100t3g0a_1662123953_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 311954,
+        "title": "SSD 1 TB WD Black SN770, M.2, PCIe Gen4x4, NVMe, Leitura: 5150MB/s e Gravação: 4900MB/s - WDS100T3X0E",
+        "manufacturer": "WD_Black",
+        "price": 73862,
+        "image": "https://images.kabum.com.br/produtos/fotos/311954/ssd-wd-black-sn770-1tb-m-2-pcie-gen4x4-nvme-leitura-5150mb-s-gravacao-4900mb-s-wds100t3x0e_1645633305_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 315273,
+        "title": "Placa Mãe Gigabyte H610M (rev. 1.0), Intel LGA1700, H610, DDR4, mATX - H610M H DDR4",
+        "manufacturer": "Gigabyte",
+        "price": 69317,
+        "image": "https://images.kabum.com.br/produtos/fotos/315273/placa-mae-gigabyte-h610m-rev-1-0-intel-lga1700-h610-ddr4-matx-h610m-h-ddr4_1647527046_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 315286,
+        "title": "Processador Intel Core i9-12900KS, 3.4GHz (5.5GHz Max Turbo), Cache 30MB, LGA 1700, Vídeo Integrado - BX8071512900KS",
+        "manufacturer": "Intel",
+        "price": 333332,
+        "image": "https://images.kabum.com.br/produtos/fotos/315286/processador-intel-core-i9-12900ks-cache-30mb-3-4ghz-5-5ghz-max-turbo-lga-1700-bx8071512900ks_1649103568_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 320908,
+        "title": "Gabinete Gamer Rise Mode Galaxy Glass, Mid Tower, Lateral e Frontal em Vidro Temperado, Preto - RM-GA-GG-FB",
+        "manufacturer": "Rise Mode",
+        "price": 62489,
+        "image": "https://images.kabum.com.br/produtos/fotos/320908/gabinete-gamer-rise-mode-galaxy-glass-lateral-em-vidro-temperado-preto-rm-ga-gg-fb_1657738212_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 320909,
+        "title": "Gabinete Gamer Rise Mode Galaxy Glass, Mid Tower, Lateral e Frontal em Vidro Temperado, Branco - RM-GA-GG-FW",
+        "manufacturer": "Rise Mode",
+        "price": 62489,
+        "image": "https://images.kabum.com.br/produtos/fotos/320909/gabinete-gamer-rise-mode-galaxy-glass-lateral-em-vidro-temperado-branco-rm-ga-gg-fw_1657736758_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 321070,
+        "title": "Placa Mãe Asus Prime H610M-E D4, Intel LGA 1700, mATX, DDR4",
+        "manufacturer": "ASUS",
+        "price": 79544,
+        "image": "https://images.kabum.com.br/produtos/fotos/321070/placa-mae-asus-prime-h610m-e-d4-intel-lga-1700-h610-matx-ddr4-90mb19n0-c1bay0_1648577141_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 347227,
+        "title": "Fonte ASUS ROG Thor 1200P2, 1200W, 80 Plus Platinum, Modular, PFC Ativo, sem cabo, Preto  - 90YE00L0-B0BA00",
+        "manufacturer": "ASUS",
+        "price": 340908,
+        "image": "https://images.kabum.com.br/produtos/fotos/347227/fonte-asus-rog-thor-1200p2-1200w-80-plus-platinum-display-led-aura-sync-bivolt-preto-90ye00l0-b0ba00_1660331397_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 351527,
+        "title": "SSD SATA WD Blue, 1TB, 2.5\", Leitura: 560MB/s e Gravação: 520MB/s, Preto - WDS100T3B0A",
+        "manufacturer": "Western Digital",
+        "price": 68181,
+        "image": "https://images.kabum.com.br/produtos/fotos/351527/ssd-wd-blue-1t-sata-leitura-560mb-s-gravacao-520mb-s-wds100t3b0a_1657308987_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 368437,
+        "title": "Fonte Gamemax GS600, 600W, 80 Plus White, PFC Ativo, com cabo, Preto - GS600",
+        "manufacturer": "Gamemax",
+        "price": 31764,
+        "image": "https://images.kabum.com.br/produtos/fotos/368437/fonte-gamemax-gs600-600w-80-plus-white-pfc-ativo-com-cabo-preto-gs600_1716910931_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 368967,
+        "title": "Gabinete Gamer XPG Valor Air, Mid tower, ATX, Lateral em Vidro, 4x Cooler Fan, Branco - VALORAIRMT-WHCWW",
+        "manufacturer": "XPG",
+        "price": 43170,
+        "image": "https://images.kabum.com.br/produtos/fotos/368967/gabinete-gamer-xpg-valorair-mid-tower-atx-argb-4x-fan-lateral-em-vidro-branco-valorairmt-whcww_1664565900_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 369074,
+        "title": "SSD SATA SanDisk Plus, 1TB, 2.5\", Leitura: 535MB/s e Gravação: 350MB/s, Preto - SDSSDA-1T00-G27",
+        "manufacturer": "SanDisk",
+        "price": 55681,
+        "image": "https://images.kabum.com.br/produtos/fotos/369074/ssd-sandisk-plus-1tb-sata-iii-leitura-535mb-s-gravacao-450mb-s-sdssda-1t00-g27_1660219950_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 369655,
+        "title": "Fonte MSI MAG A600DN, 600W, 80 Plus White, PFC Ativo, Com Cabo, Preto - 306-7ZP6B22-809",
+        "manufacturer": "MSI",
+        "price": 34090,
+        "image": "https://images.kabum.com.br/produtos/fotos/369655/fonte-msi-mag-a600dn-atx-600w-80-plus-pfc-ativo-entrada-bivolt-preto-306-7zp6b22-809_1667475815_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 369658,
+        "title": "Fonte MSI MAG A650BN, 650W, 80 Plus Bronze, PFC Ativo, Com Cabo, Preto - 306-7ZP2B22-CE0",
+        "manufacturer": "MSI",
+        "price": 37498,
+        "image": "https://images.kabum.com.br/produtos/fotos/369658/fonte-msi-mag-a650bn-atx-650w-80-plus-bronze-pfc-ativo-entrada-bivolt-preto-306-7zp2b22-ce0_1665770996_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 376213,
+        "title": "Placa Mãe Asus Rog Crosshair X670E Hero, AMD X670, AM5, DDR5, Wi-Fi - 90MB1BC0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 656110,
+        "image": "https://images.kabum.com.br/produtos/fotos/376213/placa-mae-asus-rog-crosshair-x670e-hero-amd-x670-am5-ddr5-90mb1bc0-m0eay0_1664283439_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 376217,
+        "title": "Placa Mãe Asus Rog Strix X670E-E Gaming Wi-Fi, AMD X670, AM5, DDR5 - 90MB1BR0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 542044,
+        "image": "https://images.kabum.com.br/produtos/fotos/376217/placa-mae-asus-rog-strix-x670e-e-gaming-wifi-amd-x670-am5-ddr5-90mb1br0-m0eay0_1666295392_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 376218,
+        "title": "Placa Mae Asus ROG Strix X670E-F Gaming Wi-Fi, AMD X670, AM5, DDR5 - 90MB1BA0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 449430,
+        "image": "https://images.kabum.com.br/produtos/fotos/376218/placa-mae-asus-rog-strix-x670e-f-gaming-wifi-amd-x670-am5-ddr5-90mb1ba0-m0eay0_1668176712_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 376219,
+        "title": "Placa Mãe Asus Rog Strix X670E-A Gaming Wi-Fi, AMD X670, AM5, DDR5 - 90MB1BM0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 436363,
+        "image": "https://images.kabum.com.br/produtos/fotos/376219/placa-mae-asus-rog-strix-x670e-a-gaming-wifi-amd-x670-am5-ddr5-90mb1bm0-m0eay0_1666354843_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 376221,
+        "title": "Placa Mãe Asus TUF Gaming X670E-Plus Wi-Fi, AMD X670, AM5, DDR5 - 90MB1BK0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 318181,
+        "image": "https://images.kabum.com.br/produtos/fotos/376221/placa-mae-asus-tuf-gaming-x670e-plus-wifi-amd-x670-am5-ddr5-90mb1bk0-m0eay0_1666360329_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 376223,
+        "title": "Placa Mãe Asus Prime X670E-Pro Wi-Fi, AMD X670, AM5, DDR5 - 90MB1BL0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 364772,
+        "image": "https://images.kabum.com.br/produtos/fotos/376223/placa-mae-asus-prime-x670e-pro-wifi-amd-x670-am5-ddr5-90mb1bl0-m0eay0_1668432349_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 376231,
+        "title": "Placa Mãe Asus Prime X670-P, AMD X670, AM5, DDR5 - 90MB1BU0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 277272,
+        "image": "https://images.kabum.com.br/produtos/fotos/376231/placa-mae-asus-prime-x670-p-amd-x670-am5-ddr5-90mb1bu0-m0eay0_1668441269_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 376232,
+        "title": "Placa Mae Asus ProArt X670E-Creator Wi-Fi, AMD X670, AM5, DDR5 - 90MB1B90-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 523294,
+        "image": "https://images.kabum.com.br/produtos/fotos/376232/placa-mae-asus-proart-x670e-creator-wifi-amd-x670-am5-ddr5-90mb1b90-m0eay0_1668443223_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 377090,
+        "title": "Fonte Gamemax GP750, 750W, 80 Plus Bronze, PFC Ativo, com cabo, Preto - GP750",
+        "manufacturer": "Gamemax",
+        "price": 39772,
+        "image": "https://images.kabum.com.br/produtos/fotos/377090/fonte-gamemax-gp750-750w-80-plus-bronze-pfc-ativo-bivolt-com-cabo-preto-gp750_1663010611_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 378411,
+        "title": "Processador AMD Ryzen 9 7950X, 5.7GHz Max Turbo, Cache 80MB, AM5, 16 Núcleos, Vídeo Integrado - 100-100000514WOF",
+        "manufacturer": "AMD",
+        "price": 522726,
+        "image": "https://images.kabum.com.br/produtos/fotos/378411/processador-amd-ryzen-9-7950x-5-7ghz-max-turbo-cache-80mb-am5-16-nucleos-video-integrado-100-100000514wof_1662132759_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 378412,
+        "title": "Processador AMD Ryzen 9 7900X, 5.6GHz Max Turbo, Cache 76MB, AM5, 12 Núcleos, Vídeo Integrado - 100-100000589WOF",
+        "manufacturer": "AMD",
+        "price": 443067,
+        "image": "https://images.kabum.com.br/produtos/fotos/378412/processador-amd-ryzen-9-7900x-5-6ghz-max-turbo-cache-76mb-am5-12-nucleos-video-integrado-100-100000589wof_1662134312_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 378413,
+        "title": "Processador AMD Ryzen 7 7700X, 5.4GHz Max Turbo, Cache 40MB, AM5, 8 Núcleos, Vídeo Integrado - 100-100000591WOF",
+        "manufacturer": "AMD",
+        "price": 295453,
+        "image": "https://images.kabum.com.br/produtos/fotos/378413/processador-amd-ryzen-7-7700x-5-4ghz-max-turbo-cache-40mb-am5-8-nucleos-video-integrado-100-100000591wof_1662136328_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 378414,
+        "title": "Processador AMD Ryzen 5 7600X, 5.3GHz  Max Turbo, Cache 38MB, AM5, 6 Núcleos, Vídeo Integrado - 100-100000593WOF",
+        "manufacturer": "AMD",
+        "price": 194777,
+        "image": "https://images.kabum.com.br/produtos/fotos/378414/processador-amd-ryzen-5-7600x-5-3ghz-max-turbo-cache-38mb-am5-6-nucleos-video-integrado-100-100000593wof_1662137195_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 379756,
+        "title": "SSD WD Black SN850X Gaming Storage 1TB, M.2 2280 PCIe GEN4X4, NVMe, Leitura: 7300 MB/s e Gravação: 6300 MB/s, Preto - WDS100T2X0E",
+        "manufacturer": "WD_Black",
+        "price": 85226,
+        "image": "https://images.kabum.com.br/produtos/fotos/379756/ssd-wd-black-sn850x-gaming-storage-1tb-m-2-2280-pcie-gen4x4-nvme-leitura-7300-mb-s-e-gravacao-6300-mb-s-preto-wds100t2x0e_1666794636_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 380745,
+        "title": "SSD 1 TB Kingston NV2, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s - SNV2S/1000G",
+        "manufacturer": "Kingston",
+        "price": 56817,
+        "image": "https://images.kabum.com.br/produtos/fotos/380745/ssd-kingston-nv2-1-tb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-1000g_1666033119_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 382745,
+        "title": "Memória RAM Corsair Vengeance RGB RS, 16GB, 3200MHz, DDR4, CL16, Preto - CMG16GX4M1E3200C16",
+        "manufacturer": "Corsair",
+        "price": 36665,
+        "image": "https://images.kabum.com.br/produtos/fotos/382745/memoria-corsair-vengeance-rgb-rs-16gb-3200mhz-ddr4-c16-preto-cmg16gx4m1e3200c16_1665428612_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 382749,
+        "title": "Memória RAM Corsair Vengeance RGB RS, 32GB (2x16GB), 3200MHz, DDR4, CL16, Preto - CMG32GX4M2E3200C16",
+        "manufacturer": "Corsair",
+        "price": 77272,
+        "image": "https://images.kabum.com.br/produtos/fotos/382749/memoria-corsair-vengeance-rgb-rs-32gb-3200mhz-ddr4-c16-preto-cmg32gx4m2e3200c16_1665431149_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 382755,
+        "title": "Memória RAM Corsair Vengeance RGB PRO SL, 32GB (2x16GB), 3200MHz, DDR4, CL16, Branco - CMH32GX4M2E3200C16W",
+        "manufacturer": "Corsair",
+        "price": 78408,
+        "image": "https://images.kabum.com.br/produtos/fotos/382755/memoria-corsair-vengeance-rgb-pro-sl-32gb-3200mhz-ddr4-c16-branco-cmh32gx4m2e3200c16w_1665665045_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 382768,
+        "title": "Memória RAM Corsair Dominator Platinum RGB, 32GB (2x 16GB), 5200MHz, DDR5, CL40, Preto - CMT32GX5M2B5200C40",
+        "manufacturer": "Corsair",
+        "price": 127777,
+        "image": "https://images.kabum.com.br/produtos/fotos/382768/memoria-corsair-dominator-platinum-rgb-32gb-5200mhz-ddr5-c40-preto-cmt32gx5m2b5200c40_1665668029_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 382771,
+        "title": "Memória RAM Corsair Vengeance RGB, 32GB (2x16GB), 6200MHz, DDR5, CL36, Preto - CMH32GX5M2B6200C36",
+        "manufacturer": "Corsair",
+        "price": 127777,
+        "image": "https://images.kabum.com.br/produtos/fotos/382771/memoria-corsair-vengeance-rgb-32gb-6200mhz-ddr5-c36-preto-cmh32gx5m2b6200c36_1665504836_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 383894,
+        "title": "Memória RAM Rise Mode Z, 16GB, 3200MHz, DDR4, CL19, Preto - RM-D4-16G-3200Z",
+        "manufacturer": "Rise Mode",
+        "price": 27613,
+        "image": "https://images.kabum.com.br/produtos/fotos/383894/memoria-ram-rise-mode-z-16gb-3200mhz-ddr4-cl15-preto-rm-d4-16g-3200z_1667509317_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 383895,
+        "title": "Memória RAM Rise Mode Z, 16GB, 3200MHz, DDR4, CL19, Branco - RM-D4-16G-3200ZW",
+        "manufacturer": "Rise Mode",
+        "price": 27613,
+        "image": "https://images.kabum.com.br/produtos/fotos/383895/memoria-ram-rise-mode-z-16gb-3200mhz-ddr4-cl15-branco-rm-d4-16g-3200zw_1667509468_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 385263,
+        "title": "Memória RAM Corsair Vengeance para AMD, RGB, 64GB (2x32GB), 5200MHz, DDR5, CL40, Preto - CMH64GX5M2B5200C40",
+        "manufacturer": "Corsair",
+        "price": 188888,
+        "image": "https://images.kabum.com.br/produtos/fotos/385263/memoria-corsair-vengeance-rgb-ddr5-para-amd-64gb-5200mhz-ddr5-c40-preto-cmh64gx5m2b5200c40_1663587987_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 385268,
+        "title": "Memória RAM Corsair Vengeance para AMD, 64GB (2x32GB), 5200MHz, DDR5, CL40, Preto - CMK64GX5M2B5200Z40",
+        "manufacturer": "Corsair",
+        "price": 166665,
+        "image": "https://images.kabum.com.br/produtos/fotos/385268/memoria-corsair-vengeance-ddr5-para-amd-64gb-5200mhz-ddr5-c40-preto-cmk64gx5m2b5200z40_1663964941_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 386140,
+        "title": "Gabinete Gamer Rise Mode Galaxy Glass Sound, Mid Tower, RGB, LED, Lateral e Frontal em Vidro Temperado, Sem Fans, Preto - RM-GA-GGS-FB",
+        "manufacturer": "Rise Mode",
+        "price": 65898,
+        "image": "https://images.kabum.com.br/produtos/fotos/386140/gabinete-gamer-rise-mode-galaxy-glass-sound-mid-tower-rgb-led-lateral-e-frontal-em-vidro-temperado-sem-fans-preto-rm-ga-ggs-fb_1672344284_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 386142,
+        "title": "Gabinete Gamer Rise Mode Galaxy Glass Sound, Mid Tower, RGB, LED, Lateral e Frontal em Vidro Temperado, Sem Fans, Branco - RM-GA-GGS-FW",
+        "manufacturer": "Rise Mode",
+        "price": 46580,
+        "image": "https://images.kabum.com.br/produtos/fotos/386142/gabinete-gamer-rise-mode-galaxy-glass-sound-mid-tower-rgb-led-lateral-e-frontal-em-vidro-temperado-sem-fans-branco-rm-ga-ggs-fw_1672418812_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 386971,
+        "title": "Processador Intel Core i9-13900K, 13ª Geração, 5.8GHz Max Turbo, Cache 36MB, 24 Núcleos, LGA 1700, Vídeo Integrado - BX8071513900K",
+        "manufacturer": "Intel",
+        "price": 422110,
+        "image": "https://images.kabum.com.br/produtos/fotos/386971/processador-intel-core-i9-13900k-5-8ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-video-integrado-bx8071513900k_1664286209_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 386975,
+        "title": "Processador Intel Core i5-13600K, 13ª Geração, 5.1GHz Max Turbo, Cache 24MB, 14 Núcleos, LGA 1700, Vídeo Integrado - BX8071513600K",
+        "manufacturer": "Intel",
+        "price": 249999,
+        "image": "https://images.kabum.com.br/produtos/fotos/386975/processador-intel-core-i5-13600k-5-1ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga-1700-video-integrado-bx8071513600k_1664289036_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 388095,
+        "title": "Memória RAM Kingston Fury Beast, RGB, 32GB (2x16GB), 6000MHz, DDR5, CL40, Preto - KF560C40BBAK2-32",
+        "manufacturer": "Kingston",
+        "price": 132221,
+        "image": "https://images.kabum.com.br/produtos/fotos/388095/memoria-kingston-fury-beast-rgb-32gb-6000mhz-ddr5-cl40-preto-kf560c40bbak2-32_1666094293_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 392033,
+        "title": "Placa Mãe Asus ROG Strix Z790-A Gaming Wi-Fi, D4, Intel LGA1700 Z790, ATX, DDR4 - 90MB1CN0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 410795,
+        "image": "https://images.kabum.com.br/produtos/fotos/392033/placa-mae-asus-rog-strix-z790-a-gaming-wifi-d4-intel-lga1700-z790-atx-ddr4-90mb1cn0-m0eay0_1666883023_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 392034,
+        "title": "Placa Mãe Asus ROG Strix Z790-I Gaming Wi-Fi, Intel LGA1700 Z790, ITX, DDR5 - 90MB1CM0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 485794,
+        "image": "https://images.kabum.com.br/produtos/fotos/392034/placa-mae-asus-rog-strix-z790-i-gaming-wifi-intel-lga1700-z790-itx-ddr5-90mb1cm0-m0eay0_1666883661_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 392035,
+        "title": "Placa Mãe Asus Prime Z790-A Wi-Fi, Intel LGA1700 Z790, ATX, DDR5 - 90MB1CS0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 310226,
+        "image": "https://images.kabum.com.br/produtos/fotos/392035/placa-mae-asus-prime-z790-a-wifi-intel-lga1700-z790-atx-ddr5-90mb1cs0-m0eay0_1666887004_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 392047,
+        "title": "Placa Mãe Asus ROG Strix B650E-E Gaming Wi-Fi, AMD AM5 B650, ATX, DDR5, Wi-Fi - 90MB1BB0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 336363,
+        "image": "https://images.kabum.com.br/produtos/fotos/392047/placa-mae-asus-rog-strix-b650e-e-gaming-wifi-amd-am5-b650-atx-ddr5-90mb1bb0-m0eay0_1666975660_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 392048,
+        "title": "Placa Mãe Asus ROG Strix B650-A Gaming Wi-Fi, AMD AM5 B650, ATX, DDR5, Wi-Fi - 90MB1BP0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 267044,
+        "image": "https://images.kabum.com.br/produtos/fotos/392048/placa-mae-asus-rog-strix-b650-a-gaming-wifi-amd-am5-b650-atx-ddr5-90mb1bp0-m0eay0_1666982657_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 392049,
+        "title": "Placa Mãe Asus TUF Gaming B650-Plus Wi-Fi, AMD AM5 B650, ATX, DDR5, Wi-Fi - 90MB1BZ0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 214772,
+        "image": "https://images.kabum.com.br/produtos/fotos/392049/placa-mae-asus-tuf-gaming-b650-plus-wifi-amd-am5-b650-atx-ddr5-90mb1bz0-m0eay0_1666985103_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 392052,
+        "title": "Placa Mãe Asus TUF Gaming B650M-Plus, AMD AM5 B650, mATX, DDR5 - 90MB1BG0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 193181,
+        "image": "https://images.kabum.com.br/produtos/fotos/392052/placa-mae-asus-tuf-gaming-b650m-plus-amd-am5-b650-matx-ddr5-90mb1bg0-m0eay0_1667218379_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 392077,
+        "title": "Gabinete NZXT H5 Flow Compact, Mid Tower, ATX, Lateral e Frontal em Vidro Temperado, 2x Cooler Fan, Branco - CC-H51FW-01",
+        "manufacturer": "NZXT",
+        "price": 90898,
+        "image": "https://images.kabum.com.br/produtos/fotos/392077/gabinete-nzxt-h5-flow-compact-mid-tower-rgb-atx-lateral-e-frontal-em-vidro-temperado-2x-cooler-fan-branco-cc-h51fw-01_1666614088_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 392596,
+        "title": "Placa Mãe Z790 MSI MAG Tomahawk Wi-Fi, Intel LGA 1700, ATX, DDR5, LED RGB - MAG Z790 TOMAHAWK WIFI",
+        "manufacturer": "MSI",
+        "price": 399999,
+        "image": "https://images.kabum.com.br/produtos/fotos/392596/placa-mae-msi-mag-z790-tomahawk-wi-fi-intel-lga-1700-atx-ddr5-led-rgb-mag-z790-tomahawk-wifi_1666726676_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 392598,
+        "title": "Placa Mãe Z790-P MSI PRO Wi-Fi, Intel LGA 1700, ATX, DDR5 - PRO Z790-P WIFI",
+        "manufacturer": "MSI",
+        "price": 236931,
+        "image": "https://images.kabum.com.br/produtos/fotos/392598/placa-mae-msi-pro-z790-p-wifi-intel-atx-ddr5-led-rgb-pro-z790-p-wifi_1666640758_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 392611,
+        "title": "Placa Mãe B650 MSI MAG Tomahawk Wi-Fi, AMD AM5, ATX, DDR5 - MAG B650 TOMAHAWK WIFI",
+        "manufacturer": "MSI",
+        "price": 225881,
+        "image": "https://images.kabum.com.br/produtos/fotos/392611/placa-mae-msi-mag-b650-tomahawk-wifi-amd-atx-ddr5-led-rgb-mag-b650-tomahawk-wifi_1666642351_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 395126,
+        "title": "Placa Mãe Gigabyte Z790 Aero G (rev 1.0), Intel LGA1700, ATX, DDR5, Wi-Fi, Bluetooth - Z790 AERO G",
+        "manufacturer": "Gigabyte",
+        "price": 351135,
+        "image": "https://images.kabum.com.br/produtos/fotos/395126/placa-mae-z790-aero-g-z790-aero-g_1668455322_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 397034,
+        "title": "Gabinete Gamer XPG Defender, Mid Tower, E-ATX, Painel e Lateral em Vidro Temperado, 3x Cooler Fan, Branco - 75260193",
+        "manufacturer": "XPG",
+        "price": 51125,
+        "image": "https://images.kabum.com.br/produtos/fotos/397034/gabinete-gamer-xpg-defender-mid-tower-e-atx-painel-e-lateral-em-vidro-temperado-3x-cooler-fan-branco-75260193_1669057202_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 397238,
+        "title": "Fonte Gamer Fortrek ATX Crusader, 500W, sem cabo, Preto - 76955",
+        "manufacturer": "Fortrek",
+        "price": 14772,
+        "image": "https://images.kabum.com.br/produtos/fotos/397238/fonte-gamer-fortrek-atx-crusader-500w-sem-cabo-preto-76955_1721235457_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 398535,
+        "title": "SSD 1TB Kingston Fury Renegade com Dissipador, PCIe 4.0 NVMe M.2, Gen4x4, Leitura: 7300MB/s e Gravação: 6000MB/s, Preto, compatível com o PlayStation 5 - SFYRSK/1000G",
+        "manufacturer": "Kingston",
+        "price": 98862,
+        "image": "https://images.kabum.com.br/produtos/fotos/398535/ssd-kingston-fury-1tb-pcie-4-0-nvme-m-2-leitura-7300mb-s-e-gravacao-6000mb-s-preto-sfyrsk-1000g_1670945450_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 404816,
+        "title": "Placa Mãe Asus Prime B760M-A, Intel LGA 1700, D4, mATX, DDR4 - 90MB1D00-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 117646,
+        "image": "https://images.kabum.com.br/produtos/fotos/404816/placa-mae-asus-prime-b760m-a-intel-lga-1700-d4-ddr4-matx-90mb1d00-m0eay0_1673973188_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 404819,
+        "title": "Placa Mãe Asus Prime B760-Plus, Intel LGA 1700, D4,DDR4, ATX - 90MB1CW0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 156249,
+        "image": "https://images.kabum.com.br/produtos/fotos/404819/placa-mae-asus-prime-b760-plus-intel-lga-1700-d4-ddr4-atx-90mb1cw0-m0eay0_1674046088_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 404821,
+        "title": "Placa Mãe Asus ROG STRIX B760-F Gaming Wi-Fi, Intel LGA 1700, ATX, DDR5, Wi-Fi - 90MB1CT0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 273294,
+        "image": "https://images.kabum.com.br/produtos/fotos/404821/placa-mae-asus-rog-strix-b760-f-gaming-intel-lga-1700-atx-ddr5-wifi-90mb1ct0-m0eay0_1674050530_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 404822,
+        "title": "Placa Mãe Asus TUF GAMING B760M-Plus, Intel LGA 1700, mATX, D4, DDR4 - 90MB1DI0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 181817,
+        "image": "https://images.kabum.com.br/produtos/fotos/404822/placa-mae-asus-tuf-gaming-b760m-plus-intel-lga-1700-d4-ddr4-matx-90mb1di0-m0eay0_1674052878_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 405761,
+        "title": "Processador Intel Core i9-13900F, 5.6GHz Max Turbo, Cache 36MB, 24 Núcleos, 32 Threads, LGA 1700 - BX8071513900F",
+        "manufacturer": "Intel",
+        "price": 388777,
+        "image": "https://images.kabum.com.br/produtos/fotos/405761/processador-intel-core-i9-13900f-5-6ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-bx8071513900f_1672683560_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 405763,
+        "title": "Processador Intel Core i7-13700F, 5.2GHz Max Turbo, Cache 30MB, 16 Núcleos, 24 Threads, LGA 1700 - BX8071513700F",
+        "manufacturer": "Intel",
+        "price": 277666,
+        "image": "https://images.kabum.com.br/produtos/fotos/405763/processador-intel-core-i7-13700f-5-2ghz-max-turbo-cache-30mb-16-nucleos-24-threads-lga-1700-bx8071513700f_1672684860_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 405765,
+        "title": "Processador Intel Core i5-13400, 4.6GHz Max Turbo, Cache 20MB, 10 Núcleos, 16 Threads, LGA 1700, Vídeo Integrado - BX8071513400",
+        "manufacturer": "Intel",
+        "price": 170340,
+        "image": "https://images.kabum.com.br/produtos/fotos/405765/processador-intel-core-i5-13400-4-6ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-video-integrado-bx8071513400_1672688891_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 405766,
+        "title": "Processador Intel Core i5-13400F, 4.6GHz Max Turbo, Cache 20MB, 10 Núcleos, 16 Threads, LGA 1700 - BX8071513400F",
+        "manufacturer": "Intel",
+        "price": 148776,
+        "image": "https://images.kabum.com.br/produtos/fotos/405766/processador-intel-core-i5-13400f-4-6ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-bx8071513400f_1672752804_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 405767,
+        "title": "Processador Intel Core i3-13100, 4.5GHz Max Turbo, Cache 12MB, 4 Núcleos, 8 Threads, LGA 1700, Vídeo Integrado - BX8071513100",
+        "manufacturer": "Intel",
+        "price": 111110,
+        "image": "https://images.kabum.com.br/produtos/fotos/405767/processador-intel-core-i3-13100-4-5ghz-max-turbo-cache-12mb-4-nucleos-8-threads-lga-1700-video-integrado-bx8071513100_1672747908_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 405768,
+        "title": "Processador Intel Core i3-13100F, 4.5GHz Max Turbo, Cache 12MB, 4 Núcleos, 8 Threads, LGA 1700 - BX8071513100F",
+        "manufacturer": "Intel",
+        "price": 84443,
+        "image": "https://images.kabum.com.br/produtos/fotos/405768/processador-intel-core-i3-13100f-4-5ghz-max-turbo-cache-12mb-4-nucleos-8-threads-lga-1700-bx8071513100f_1672748380_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 405783,
+        "title": "Placa Mãe MSI Mag B760 Tomahawk, Intel LGA 1700, ATX, DDR4, Wi-Fi, Bluetooth - MAG B760 TOMAHAWK WIFI DDR4",
+        "manufacturer": "MSI",
+        "price": 163635,
+        "image": "https://images.kabum.com.br/produtos/fotos/405783/placa-mae-msi-mag-b760-tomahawk-intel-lga-1700-atx-ddr4-wi-fi-bluetooth-mag-b760-tomahawk-wifi-ddr4_1681761247_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 405799,
+        "title": "Processador AMD Ryzen 5 7600, 5.1GHz Max Turbo, Cache 38MB, AM5, 6 Núcleos, Vídeo Integrado - 100-100001015BOX",
+        "manufacturer": "AMD",
+        "price": 164772,
+        "image": "https://images.kabum.com.br/produtos/fotos/405799/processador-amd-ryzen-5-7600-5-2ghz-max-turbo-cache-38mb-am5-6-nucleos-video-integrado-100-100001015box_1673290816_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 405801,
+        "title": "Processador AMD Ryzen 7 7700, 5.3GHz Max Turbo, Cache 40MB, AM5, 8 Núcleos, Vídeo Integrado - 100-100000592BOX",
+        "manufacturer": "AMD",
+        "price": 249999,
+        "image": "https://images.kabum.com.br/produtos/fotos/405801/processador-amd-ryzen-5-7700-5-3ghz-max-turbo-cache-40mb-am5-8-nucleos-video-integrado-100-100000592box_1673292705_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 405802,
+        "title": "Processador AMD Ryzen 9 7900, 5.4GHz Max Turbo, Cache 76MB, AM5, 12 Núcleos, Vídeo Integrado - 100-100000590BOX",
+        "manufacturer": "AMD",
+        "price": 344909,
+        "image": "https://images.kabum.com.br/produtos/fotos/405802/processador-amd-ryzen-5-7900-5-4ghz-max-turbo-cache-76mb-am5-12-nucleos-video-integrado-100-100000590box_1673293476_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 406101,
+        "title": "Fonte ASUS ROG Loki SFX-L, 1000W, 80 Plus Platinum, Modular, PFC Ativo, sem cabo, Preto - 90YE00N1-B0BA00",
+        "manufacturer": "ASUS",
+        "price": 204544,
+        "image": "https://images.kabum.com.br/produtos/fotos/406101/fonte-asus-rog-loki-sfx-l-1000w-80-plus-platinum-argb-bivolt-preto-90ye00n1-b0ba00_1675107734_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 406109,
+        "title": "Fonte ASUS TUF Gaming, 1000W, 80 Plus Gold, Full Modular, PFC Ativo, Preto - 90YE00S1-B0BA00",
+        "manufacturer": "ASUS",
+        "price": 193181,
+        "image": "https://images.kabum.com.br/produtos/fotos/406109/fonte-asus-tuf-gaming-1000w-80-plus-gold-bivolt-preto-90ye00s1-b0ba00_1683576144_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 406110,
+        "title": "Fonte ASUS TUF Gaming, 850W, 80 Plus Gold, Modular, PFC Ativo, sem cabo, Preto - 90YE00S2-B0BA00",
+        "manufacturer": "ASUS",
+        "price": 136362,
+        "image": "https://images.kabum.com.br/produtos/fotos/406110/fonte-asus-tuf-gaming-850w-80-plus-gold-bivolt-preto-90ye00s2-b0ba00_1683630485_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 406142,
+        "title": "Processador Intel Core i9-13900KS, 6.0GHz Max Turbo, Cache 36MB, 24 Núcleos, 32 Threads, LGA 1700, Vídeo Integrado - BX8071513900KS",
+        "manufacturer": "Intel",
+        "price": 477777,
+        "image": "https://images.kabum.com.br/produtos/fotos/406142/processador-intel-core-i9-13900ks-6-0ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-video-integrado-bx8071513900ks_1673461317_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 415886,
+        "title": "SSD Adata Legend 710, 1TB, M.2 2280, PCIe GEN3x4, NVMe 1.4, Leitura: 2.400 MB/s e Gravação: 1.800 MB/s, Azul - ALEG-710-1TCS",
+        "manufacturer": "Adata",
+        "price": 56817,
+        "image": "https://images.kabum.com.br/produtos/fotos/415886/ssd-adata-legend-710-1tb-m-2-2280-pcie-gen3x4-nvme-1-4-leitura-2-400-mb-s-e-gravacao-1-800-mb-s-azul-aleg-710-1tcs_1675086212_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 415964,
+        "title": "HD Seagate IronWolf 4TB NAS, 3.5\", SATA - ST4000VN006",
+        "manufacturer": "Seagate",
+        "price": 84090,
+        "image": "https://images.kabum.com.br/produtos/fotos/415964/hd-seagate-ironwolf-4tb-nas-3-5-sata-st4000vn006_1674649252_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 419108,
+        "title": "Placa Mãe Gigabyte B760M AORUS ELITE (rev. 1.0), LGA 1700, DDR5",
+        "manufacturer": "Gigabyte",
+        "price": 164772,
+        "image": "https://images.kabum.com.br/produtos/fotos/419108/placa-mae-gigabyte-b760m-aorus-elite_1677686877_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 419116,
+        "title": "Placa de Vídeo RX 7900 XT OC Edition TUF Gaming Asus AMD, 20 GB GDDR6, ARGB - TUF-RX7900XT-O20G-GAMING",
+        "manufacturer": "ASUS",
+        "price": 681817,
+        "image": "https://images.kabum.com.br/produtos/fotos/419116/placa-de-video-rx-7900-xt-oc-edition-tuf-gaming-asus-amd-20-gb-gddr6-argb-tuf-rx7900xt-o20g-gaming_1677269433_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 422342,
+        "title": "Memória RAM Corsair Vengeance, RGB, 32GB(2X16GB), 5200MHz, DDR5, CL40, Preto - CMH32GX5M2B5200Z40K",
+        "manufacturer": "Corsair",
+        "price": 99999,
+        "image": "https://images.kabum.com.br/produtos/fotos/422342/memoria-corsair-vengeance-rgb-32gb-2x16gb-5200mhz-ddr5-c40-preto-cmh32gx5m2b5200z40k_1677507901_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 422344,
+        "title": "Memória RAM Corsair Vengeance, RGB, 64GB (2X32GB), 5600MHz, DDR5, CL40 Preto - CMH64GX5M2B5600Z40K",
+        "manufacturer": "Corsair",
+        "price": 199999,
+        "image": "https://images.kabum.com.br/produtos/fotos/422344/memoria-corsair-vengeance-rgb-64gb-2x32gb-5600mhz-ddr5-c40-preto-cmh64gx5m2b5600z40k_1677510902_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 422923,
+        "title": "Placa Mãe ASRock B650M PG Riptide, AMD, Micro ATX, DDR5 - 90-MXBJ9*",
+        "manufacturer": "ASRock",
+        "price": 174999,
+        "image": "https://images.kabum.com.br/produtos/fotos/422923/placa-mae-asrock-b650m-pg-riptide-amd-micro-atx-ddr5-90-mxbj9-_1682508605_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 426261,
+        "title": "Processador AMD Ryzen 9 7900X3D, 5.6GHz Max Turbo, Cache 140MB, AM5, 12 Núcleos, Vídeo Integrado - 100-100000909WOF",
+        "manufacturer": "AMD",
+        "price": 443180,
+        "image": "https://images.kabum.com.br/produtos/fotos/426261/processador-amd-ryzen-9-7900x3d-5-6ghz-max-turbo-cache-140mb-am5-12-nucleos-video-integrado-100-100000909wof_1676552311_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 427124,
+        "title": "Placa Mãe Asus Rog Strix B650E-F Gaming WiFi, AMD, ATX, DDR5, RGB, WiFi, Bluetooth - 90MB1BQ0-M0EAY1",
+        "manufacturer": "ASUS",
+        "price": 299999,
+        "image": "https://images.kabum.com.br/produtos/fotos/427124/placa-mae-asus-rog-strix-b650e-f-gaming-wifi-amd-atx-ddr5-rgb-wifi-bluetooth-90mb1bq0-m0eay0_1684949431_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 427125,
+        "title": "Placa Mãe Asus Rog Strix B650E-I Gaming WiFi, AMD, Mini-ITX, DDR5, RGB, WiFi, Bluetooth - 90MB1BI0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 315908,
+        "image": "https://images.kabum.com.br/produtos/fotos/427125/placa-mae-asus-rog-strix-b650e-i-gaming-wifi-amd-mini-itx-ddr5-rgb-wifi-bluetooth-90mb1bi0-m0eay_1684951800_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 427129,
+        "title": "Placa Mãe Asus Proart Z790 Creator, Intel, ATX, DDR5, WiFi, Bluetooth - 90MB1DV0-M1EAY0",
+        "manufacturer": "ASUS",
+        "price": 490908,
+        "image": "https://images.kabum.com.br/produtos/fotos/427129/placa-mae-asus-proart-z790-creator-wifi-90mb1dv0-m0eay0_1684842369_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 427131,
+        "title": "Placa Mãe Asus Tuf Gaming Z790-Plus, Intel, ATX, DDR5, RGB, Wi-Fi, Bluetooth - 90MB1D80-M1EAY0",
+        "manufacturer": "ASUS",
+        "price": 265908,
+        "image": "https://images.kabum.com.br/produtos/fotos/427131/placa-mae-asus-ruf-gaming-z790-plus-wifi-90mb1d80-m0eay0_1685021659_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 427133,
+        "title": "Placa Mãe Asus Rog Strix B760-i Gaming WiFi - 90MB1D90-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 223294,
+        "image": "https://images.kabum.com.br/produtos/fotos/427133/placa-mae-asus-rog-strix-b760-i-gaming-wifi-90mb1d90-m0eay0_1687204584_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 427134,
+        "title": "Placa Mãe ASUS Prime B650M-A WIFI II, AMD AM5, B650, DDR5, mATX, WiFi",
+        "manufacturer": "ASUS",
+        "price": 161930,
+        "image": "https://images.kabum.com.br/produtos/fotos/427134/placa-mae-asus-prime-b650m-a-wifi-ii-90mb1eg0-m0eay0_1688589311_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 431189,
+        "title": "Fonte Gamer Aerocool ATX KCAS, 800W, 80 Plus Bronze, PFC Ativo, Bivolt, Preto - 79602",
+        "manufacturer": "Aerocool",
+        "price": 45453,
+        "image": "https://images.kabum.com.br/produtos/fotos/431189/fonte-gamer-aerocool-atx-kcas-800w-80-plus-bronze-pfc-ativo-bivolt-preto-79602_1715683851_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 432688,
+        "title": "Gabinete Gamer Corsair 5000D Airflow, Mid Tower, RGB, ATX, Lateral em Vidro Temperado, 3x Cooler Fan, Preto - CC-9011242-WW",
+        "manufacturer": "Corsair",
+        "price": 204534,
+        "image": "https://images.kabum.com.br/produtos/fotos/432688/gabinete-gamer-corsair-5000d-airflow-mid-tower-rgb-atx-lateral-em-vidro-temperado-3x-cooler-fan-preto-cc-9011242-ww_1687778612_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 442708,
+        "title": "Memória RAM Corsair Vengeance, RGB, 64GB (2x32GB), 5200MHz, DDR5, C40, Preto - CMH64GX5M2B5200Z40K",
+        "manufacturer": "Corsair",
+        "price": 193181,
+        "image": "https://images.kabum.com.br/produtos/fotos/442708/memoria-corsair-vengeance-rgb-64gb-2x32gb-5200mt-s-ddr5-c40-preto-cmh64gx5m2b5200z40k_1682617492_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 442719,
+        "title": "Memória RAM Corsair Dominator Platinum, RGB, 64GB (2x32GB), 5600MHz, DDR5, C40, Preto - CMT64GX5M2B5600Z40K",
+        "manufacturer": "Corsair",
+        "price": 204544,
+        "image": "https://images.kabum.com.br/produtos/fotos/442719/memoria-corsair-dominator-platinum-rgb-64gb-2x32gb-5600mt-s-ddr5-c40-preto-cmt64gx5m2b5600z40k_1682620336_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 444049,
+        "title": "Placa Mae Asus TUF Gaming X670E-Plus, AMD X670, AM5, DDR5 - 90MB1BJ0-C1BAY0",
+        "manufacturer": "ASUS",
+        "price": 280680,
+        "image": "https://images.kabum.com.br/produtos/fotos/444049/placa-mae-asus-tuf-gaming-x670e-plus-amd-x670-am5-ddr5-90mb1bj0-c1bay0_1685995492_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 447411,
+        "title": "Placa Mãe Gigabyte Z790 UD AX, Intel LGA 1700, ATX, DDR5, Wi-Fi, Bluetooth - Z790 UD AX&#8203",
+        "manufacturer": "Gigabyte",
+        "price": 257953,
+        "image": "https://images.kabum.com.br/produtos/fotos/447411/placa-mae-gigabyte-z790-ud-ax-intel-atx-ddr5-wi-fi-bluetooth-z790-ud-ax-8203_1689183782_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 448306,
+        "title": "Memória RAM Kingston Fury Beast, RGB, 32GB (2x16GB), 6000MHz, DDR5, CL36, Branco - KF560C36BWEAK2-32",
+        "manufacturer": "Kingston",
+        "price": 125112,
+        "image": "https://images.kabum.com.br/produtos/fotos/448306/memoria-kingston-fury-beast-rgb-32gb-2x16gb-6000mhz-ddr5-cl36-branco-kf560c36bweak2-32_1682709633_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 448330,
+        "title": "Memória RAM Kingston Fury Beast, RGB, 64GB (2x32GB), 6000MHz, DDR5, CL40,para Intel XMP, Branco - KF560C40BWAK2-64",
+        "manufacturer": "Kingston",
+        "price": 222221,
+        "image": "https://images.kabum.com.br/produtos/fotos/448330/memoria-kingston-fury-beast-para-intel-xmp-rgb-64gb-2x32gb-6000mhz-ddr5-cl40-branco-kf560c40bwak2-64_1682713779_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 454660,
+        "title": "SSD 1TB Corsair MP600 PRO LPX, PCIe Gen 4.0 x4 NVMe M.2, Leitura: 7100MB/s e Gravação: 5800MB/s, Branco - CSSD-F1000GBMP600PLPW",
+        "manufacturer": "Corsair",
+        "price": 89772,
+        "image": "https://images.kabum.com.br/produtos/fotos/454660/ssd-1tb-corsair-mp600-pro-lpx-pcie-gen-4-0-x4-nvme-m-2-leitura-7100mb-s-e-gravacao-5800mb-s-branco-cssd-f1000gbmp600plpw_1688138163_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 459936,
+        "title": "SSD SATA Kingston DC600M Mixed-Use, 960GB, 2.5\", Leitura: 560MB/s e Gravação: 530MB/s, Preto - SEDC600M/960G",
+        "manufacturer": "Kingston",
+        "price": 131817,
+        "image": "https://images.kabum.com.br/produtos/fotos/459936/ssd-kingston-960gb-dc600m-mixed-use-sata-2-5-leitura-560mb-s-e-gravacao-530mb-s-sedc600m-960g_1686053706_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 459937,
+        "title": "SSD SATA Kingston DC600M Mixed-Use, 1.92TB, 2.5\", Leitura: 560MB/s e Gravação: 530MB/s, Preto - SEDC600M/1920G",
+        "manufacturer": "Kingston",
+        "price": 238635,
+        "image": "https://images.kabum.com.br/produtos/fotos/459937/ssd-kingston-1920-gb-dc600m-mixed-use-sata-2-5-leitura-560mb-s-e-gravacao-530mb-s-sedc600m-1920g_1686054124_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 460466,
+        "title": "HD WD Red Plus, 4TB, 5400 RPM, 3.5', SATA - WD40EFPX",
+        "manufacturer": "WD",
+        "price": 88635,
+        "image": "https://images.kabum.com.br/produtos/fotos/460466/hd-wd-red-plus-4tb-5400-rpm-3-5-sata-wd40efpx_1691495627_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 460467,
+        "title": "HD WD Red Plus, 6TB, 5400 RPM, 3.5', SATA - WD60EFPX",
+        "manufacturer": "Western Digital",
+        "price": 124443,
+        "image": "https://images.kabum.com.br/produtos/fotos/460467/hd-wd-red-plus-6tb-5400-rpm-3-5-sata-wd60efpx_1691496512_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 461372,
+        "title": "Placa Mãe Asus TUF GAMING H770-PRO WIFI, Intel, ATX, DDR5, Wi-Fi, Bluetooth - 90MB1D50-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 221590,
+        "image": "https://images.kabum.com.br/produtos/fotos/461372/placa-mae-asus-tuf-gaming-h770-pro-wifi-intel-atx-ddr5-wi-fi-bluetooth-90mb1d50-m0eay0_1696354040_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 461373,
+        "title": "Placa Mãe Asus ROG STRIX B760-A GAMING WIFI, Intel, ATX, DDR5, Wi-Fi, Bluetooth - 90MB1EP0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 250567,
+        "image": "https://images.kabum.com.br/produtos/fotos/461373/placa-mae-asus-rog-strix-b760-a-gaming-wifi-intel-atx-ddr5-wi-fi-bluetooth-90mb1ep0-m0eay0_1694689600_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 461377,
+        "title": "Placa Mãe Asus TUF GAMING A620M-PLUS WIFI, AMD AM5, mATX, DDR5, Wi-Fi, Bluetooth - 90MB1F00-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 127271,
+        "image": "https://images.kabum.com.br/produtos/fotos/461377/placa-mae-asus-tuf-gaming-a620m-plus-wifi-amd-am5-matx-ddr5-wi-fi-bluetooth-90mb1f00-m0eay0_1696363566_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 461383,
+        "title": "Fonte Gamer Rise Mode Zeus, 650W, Bronze, Full Modular, PFC Ativo, Preto - RM-PSU-01-BZ-650",
+        "manufacturer": "Rise Mode",
+        "price": 47058,
+        "image": "https://images.kabum.com.br/produtos/fotos/461383/fonte-gamer-rise-mode-zeus-650w-bronze-full-modular-pfc-ativo-preto-rm-psu-01-bz-650_1724075758_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 461384,
+        "title": "Fonte Gamer Rise Mode Zeus 850W, Platinum, Full Modular, PFC Ativo, Preto - RM-PSU-01-PA-850",
+        "manufacturer": "Rise Mode",
+        "price": 94116,
+        "image": "https://images.kabum.com.br/produtos/fotos/461384/fonte-gamer-rise-mode-zeus-850w-platinum-full-modular-pfc-ativo-preto-rm-psu-01-pa-850_1724075976_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 461388,
+        "title": "Placa de Vídeo RTX 4060 Ti OC Edition Asus TUF Gaming NVIDIA GeForce, 8 GB GDDR6, ARGB, DLSS - TUF-RTX4060TI-O8G-GAMING",
+        "manufacturer": "ASUS",
+        "price": 340908,
+        "image": "https://images.kabum.com.br/produtos/fotos/461388/placa-de-video-rtx-4060-ti-asus-tuf-o8g-gaming-tuf-rtx4060ti-o8g-gaming_1684871390_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 461395,
+        "title": "Placa de Vídeo RTX 4060 Ti VENTUS 3X 8G OC MSI NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing",
+        "manufacturer": "MSI",
+        "price": 306817,
+        "image": "https://images.kabum.com.br/produtos/fotos/461395/placa-de-video-rtx-4060-ti-ventus-msi-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing_1684770175_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 462166,
+        "title": "Placa de Vídeo RTX 4060 Ti Eagle OC Gigabyte NVIDIA GeForce, 8 GB GDDR6,  DLSS, Ray Tracing - GV-N406TEAGLE OC-8GD G10",
+        "manufacturer": "Gigabyte",
+        "price": 318181,
+        "image": "https://images.kabum.com.br/produtos/fotos/462166/placa-de-video-rtx-4060-ti-gigabyte-gv-n406teagle-oc-8gd-g10-_1684842454_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 462199,
+        "title": "Placa de Vídeo RTX 4060 Ti Click OC Galax NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing  - 46ISL8MD8COC",
+        "manufacturer": "Galax",
+        "price": 306817,
+        "image": "https://images.kabum.com.br/produtos/fotos/462199/placa-de-video-rtx-4060-ti-click-oc-galax-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing-46isl8md8coc_1684931957_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 462814,
+        "title": "Fonte MSI MAG A650GL, 650W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto, Preto",
+        "manufacturer": "MSI",
+        "price": 76135,
+        "image": "https://images.kabum.com.br/produtos/fotos/462814/fonte-msi-mag-a650gl-atx-650w-80-plus-gold-modular-pfc-ativo-bivolt-preto_1699624743_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 462815,
+        "title": "Fonte MSI MAG A750GL, 750W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto, Preto",
+        "manufacturer": "MSI",
+        "price": 84090,
+        "image": "https://images.kabum.com.br/produtos/fotos/462815/fonte-msi-mag-a750gl-pcie5-atx-3-0-750w-80-plus-gold-modular-pfc-ativo-bivolt-preto_1699625425_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 462816,
+        "title": "Fonte MSI MAG A850GL, 850W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto, Preto",
+        "manufacturer": "MSI",
+        "price": 85226,
+        "image": "https://images.kabum.com.br/produtos/fotos/462816/fonte-msi-mag-a850gl-atx-850w-80-plus-gold-modular-pfc-ativo-bivolt-preto_1698349376_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 463383,
+        "title": "Fonte ASUS TUF Gaming, 1200W, 80 Plus Gold, Modular, PFC Ativo, sem cabo, Preto - 90YE00S0-B0BA00",
+        "manufacturer": "ASUS",
+        "price": 227271,
+        "image": "https://images.kabum.com.br/produtos/fotos/463383/fonte-asus-tuf-gaming-1200w-80-plus-gold-bivolt-preto-90ye00s0-b0ba00_1699285139_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 463505,
+        "title": "Placa de Vídeo RX 7600 Hellhound Power Color AMD Radeon, 8GB GDDR6 - RX7600 8G-L/OC",
+        "manufacturer": "Power Color",
+        "price": 215908,
+        "image": "https://images.kabum.com.br/produtos/fotos/463505/placa-de-video-rx-7600-hellhound-power-color-amd-radeon-8gb-gddr6-rx7600-8g-l-oc_1686748291_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 465297,
+        "title": "Fonte Cooler Master MWE Bronze V2 Full Range, 550W, 80 Plus Bronze, PFC Ativo, com cabo, Preto - MPE-5501-ACAAW-BBR",
+        "manufacturer": "Cooler Master",
+        "price": 38635,
+        "image": "https://images.kabum.com.br/produtos/fotos/465297/fonte-cooler-master-mwe-bronze-v2-full-range-550w-80-plus-bronze-nao-modular-pfc-ativo-bivolt-preto-mpe-5501-acaaw-bbr_1698083764_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 465299,
+        "title": "Fonte Cooler Master MWE Bronze V2 Full Range, 750W, 80 Plus Bronze, PFC Ativo, sem cabo, Preto - MPE-7501-ACAAW-BBR",
+        "manufacturer": "Cooler Master",
+        "price": 56817,
+        "image": "https://images.kabum.com.br/produtos/fotos/465299/fonte-cooler-master-mwe-bronze-v2-full-range-750w-80-plus-bronze-nao-modular-pfc-ativo-bivolt-preto-mpe-7501-acaaw-bbr_1697712261_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 468462,
+        "title": "Gabinete Gamer Hyte Y40, Mid Tower, ATX, Vidro Temperado, 2x Fans, Preto e Vermelho - CS-HYTE-Y40-BR",
+        "manufacturer": "Hyte",
+        "price": 102272,
+        "image": "https://images.kabum.com.br/produtos/fotos/468462/gabinete-atx-mid-tower-y40-case-vidro-temperado-preto-e-vermelho-cs-hyte-y40-br_1699559499_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 469049,
+        "title": "Memória RAM Corsair Vengeance, 64GB (2x32GB), 6000MHz, DDR5, CL30, Preto - CMK64GX5M2B6000C30",
+        "manufacturer": "Corsair",
+        "price": 227271,
+        "image": "https://images.kabum.com.br/produtos/fotos/469049/memoria-corsair-vengeance-64gb-2x32gb-6000mhz-ddr5-cl30-preto-cmk64gx5m2b6000c30_1691589684_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 469132,
+        "title": "Placa de Vídeo RTX 4060 VENTUS 2x Black OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing",
+        "manufacturer": "MSI",
+        "price": 220453,
+        "image": "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1688052210_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 469168,
+        "title": "Gabinete Gamer Corsair 3000D RGB Airflow, Mid-Tower, ATX, Lateral em Vidro Temperado, com FAN, Preto - CC-9011255-WW",
+        "manufacturer": "Corsair",
+        "price": 90898,
+        "image": "https://images.kabum.com.br/produtos/fotos/469168/gabinete-gamer-corsair-3000d-rgb-airflow-mid-tower-atx-lateral-em-vidro-temperado-com-fan-preto-cc-9011255-ww_1700749821_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 469170,
+        "title": "Gabinete Gamer Corsair 3000D RGB Airflow, Mid-Tower, ATX, Lateral em Vidro Temperado, com FAN, Branco - CC-9011256-WW",
+        "manufacturer": "Corsair",
+        "price": 73852,
+        "image": "https://images.kabum.com.br/produtos/fotos/469170/gabinete-gamer-corsair-3000d-rgb-airflow-mid-tower-atx-lateral-em-vidro-temperado-com-fan-branco-cc-9011256-ww_1700749578_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 470985,
+        "title": "Placa de Vídeo RTX 4060 AERO OC Gigabyte NVIDIA GeForce, 8GB GDDR6, RGB, DLSS, Ray Tracing, Branco - GV-N4060AERO OC-8GD",
+        "manufacturer": "Gigabyte",
+        "price": 254544,
+        "image": "https://images.kabum.com.br/produtos/fotos/470985/placa-de-video-rtx-4060-aero-oc-gigabyte-nvidia-geforce-8gb-gddr6-rgb-dlss-ray-tracing-branco-gv-n4060aero-oc-8gd_1688049511_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 470987,
+        "title": "Placa de Vídeo RTX 4060 EAGLE OC Gigabyte NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing - GV-N4060EAGLE OC-8GD",
+        "manufacturer": "Gigabyte",
+        "price": 242044,
+        "image": "https://images.kabum.com.br/produtos/fotos/470987/placa-de-video-rtx-4060-eagle-oc-gigabyte-nvidia-geforce-8gb-gdrr6-dlss-ray-tracing-gv-n4060eagle-oc-8gd_1687981181_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 471343,
+        "title": "Fonte XPG Kyber, 850W, 80 Plus Gold, Com Cabo, Preto - KYBER850G-BKCBR",
+        "manufacturer": "XPG",
+        "price": 73862,
+        "image": "https://images.kabum.com.br/produtos/fotos/471343/fonte-xpg-kyber-850w-80-plus-gold-bivolt-preto-kyber850g-bkcbr_1698434934_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 471344,
+        "title": "Fonte XPG Kyber, 750W, 80 Plus Gold, Com Cabo, Preto - KYBER750G-BKCBR",
+        "manufacturer": "XPG",
+        "price": 56817,
+        "image": "https://images.kabum.com.br/produtos/fotos/471344/fonte-xpg-kyber-750w-80-plus-gold-bivolt-preto-kyber750g-bkcbr_1698676190_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 473206,
+        "title": "Placa de Vídeo RTX 4060 TI Ventus 2X Black 8G OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync",
+        "manufacturer": "MSI",
+        "price": 295453,
+        "image": "https://images.kabum.com.br/produtos/fotos/473206/placa-de-video-rtx-4060-ti-ventus-2x-black-8g-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-_1691522292_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 473606,
+        "title": "Gabinete Gamer Rise Mode Galaxy Glass Standard, Mid Tower, ARGB, ATX, Lateral e Frente em Vidro, 10x Cooler Fan, Preto - RM-GA-GGSB-ARGB",
+        "manufacturer": "Rise Mode",
+        "price": 84200,
+        "image": "https://images.kabum.com.br/produtos/fotos/473606/gabinete-gamer-rise-mode-galaxy-glass-standard-mid-tower-argb-atx-lateral-e-frente-em-vidro-10x-cooler-fan-preto-rm-ga-ggsb-argb_1703768116_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 473649,
+        "title": "Placa Mãe ASUS PRIME Z790M-PLUS, Intel LGA 1700, mATX, DDR5, RGB - 90MB1E70-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 223863,
+        "image": "https://images.kabum.com.br/produtos/fotos/473649/placa-mae-asus-prime-z790m-plus-intel-lga-1700-matx-ddr5-rgb-90mb1e70-m0eay0_1699885012_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 473650,
+        "title": "Placa Mãe ASUS ProArt B650-Creator, AMD AM5 B650, ATX, DDR5 - 90MB1C40-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 257953,
+        "image": "https://images.kabum.com.br/produtos/fotos/473650/placa-mae-asus-proart-b650-creator-amd-am5-b650-atx-ddr5-bluetooth-90mb1c40-m0eay0_1699380431_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 474941,
+        "title": "Memória RAM XPG Gammix D35, 16GB, 3200MHz, DDR4, CL16, Preto - AX4U320016G16A-SBKD35",
+        "manufacturer": "XPG",
+        "price": 33332,
+        "image": "https://images.kabum.com.br/produtos/fotos/474941/memoria-adata-xpg-gammix-d35-16gb-3200mhz-ddr4-cl16-preto-ax4u320016g16a-sbkd35_1692885220_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 475603,
+        "title": "Placa de Vídeo RTX 4060 TI Gaming OC Gigabyte NVIDIA GeForce, 16GB GDDR6, RGB, DLSS, Ray Tracing - GV-N406TGAMING OC-16GD",
+        "manufacturer": "Gigabyte",
+        "price": 397726,
+        "image": "https://images.kabum.com.br/produtos/fotos/475603/placa-de-video-rtx-4060-ti-gaming-oc-gigabyte-nvidia-geforce-16gb-gddr6-rgb-dlss-ray-tracing-gv-n406tgaming-oc-16gd_1700665280_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 475643,
+        "title": "Placa de Vídeo RTX 4060 Ti Aero OC 8G Gigabyte NVIDIA GeForce, 8GB GDDR6, 128bits, RGB, DLSS, Ray Tracing - GV-N406TAERO OC-8GD",
+        "manufacturer": "Gigabyte",
+        "price": 339771,
+        "image": "https://images.kabum.com.br/produtos/fotos/475643/placa-de-video-rtx-4060-ti-aero-oc-8g-gigabyte-nvidia-geforce-8gb-gddr6-128bits-rgb-dlss-ray-tracing-gv-n406taero-oc-8gd_1694458353_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 475647,
+        "title": "Placa de Vídeo RX 7600 GAMING OC 8G AMD Radeon Gigabyte, 8GB GDDR6, 128bits, RGB - GV-R76GAMING OC-8GD",
+        "manufacturer": "Gigabyte",
+        "price": 212499,
+        "image": "https://images.kabum.com.br/produtos/fotos/475647/placa-de-video-rx-7600-gaming-oc-8g-radeon-gigabyte-8gb-gddr6-128bits-rgb-gv-r76gaming-oc-8gd_1698435450_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 477149,
+        "title": "Memória RAM XPG Gammix D35, 16GB, 3200MHz, DDR4, CL16, Branco - AX4U320016G16A-SWHD35",
+        "manufacturer": "XPG",
+        "price": 30681,
+        "image": "https://images.kabum.com.br/produtos/fotos/477149/memoria-xpg-gammix-d35-16gb-3200mhz-ddr4-cl16-branco-ax4u320016g16a-swhd35_1695153123_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 477151,
+        "title": "Memória RAM XPG Spectrix D35G, RGB, 32GB (2x16GB), 3200MHz, DDR4, CL16, Preto - AX4U320016G16A-DTBKD35G",
+        "manufacturer": "XPG",
+        "price": 69771,
+        "image": "https://images.kabum.com.br/produtos/fotos/477151/memoria-xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-preto-ax4u320016g16a-dtbkd35g_1695237890_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 477152,
+        "title": "Memória RAM XPG Spectrix D35G, RGB, 32GB (2x16GB), 3200MHz, DDR4, CL16, Branco - AX4U320016G16A-DTWHD35G",
+        "manufacturer": "XPG",
+        "price": 71110,
+        "image": "https://images.kabum.com.br/produtos/fotos/477152/memoria-xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-branco-ax4u320016g16a-dtwhd35g_1695237334_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 480529,
+        "title": "Memória RAM Kingston Fury Beast, RGB, 16GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB12A/16",
+        "manufacturer": "Kingston",
+        "price": 39999,
+        "image": "https://images.kabum.com.br/produtos/fotos/480529/memoria-kingston-fury-beast-rgb-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb12a-16_1698350317_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 480530,
+        "title": "Memória RAM Kingston Fury Beast, RGB, 32GB (2x16GB), 3200MHz, DDR4, CL16, Preto - KF432C16BB12AK2/32",
+        "manufacturer": "Kingston",
+        "price": 82221,
+        "image": "https://images.kabum.com.br/produtos/fotos/480530/memoria-kingston-fury-beast-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-preto-kf432c16bb12ak2-32_1698350922_g.jpg",
+        "type": "ram"
+    },
+    {
+        "id": 481300,
+        "title": "Gabinete Galax Alpha White, Mid Tower, ATX, Frontal de Vidro, Branco - GLX-ALPHAW-2070",
+        "manufacturer": "Galax",
+        "price": 62489,
+        "image": "https://images.kabum.com.br/produtos/fotos/481300/gabinete-galax-alpha-white-mid-tower-atx-frontal-de-vidro-branco-glx-alphaw-2070_1706027339_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 481306,
+        "title": "Gabinete Galax Saturno White, Mid Tower, M-ATX, Frontal de Vidro, Branco - GLX-SATURNOW-2064",
+        "manufacturer": "Galax",
+        "price": 40330,
+        "image": "https://images.kabum.com.br/produtos/fotos/481306/gabinete-galax-saturno-white-mid-tower-m-atx-frontal-de-vidro-branco-glx-saturnow-2064_1706545611_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 482462,
+        "title": "Placa de Vídeo RX 7700 XT Phantom Gaming 12G OC ASRock AMD Radeon, 12GB, GDDR6, Ray Tracing - 90-GA4LZZ-00UANF",
+        "manufacturer": "ASRock",
+        "price": 374998,
+        "image": "https://images.kabum.com.br/produtos/fotos/482462/placa-de-video-rx-7700-xt-phantom-gaming-12g-oc-asrock-amd-radeon-rx7700xt-pg-12go-90-ga4lzz-00uanf_1694011342_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 483848,
+        "title": "SSD SATA KBM! Gaming, 1TB, 2.5\", Leitura 550 MB/s, Gravação 500 MB/s, Preto - KGSSD100100",
+        "manufacturer": "KBM! Gaming",
+        "price": 51135,
+        "image": "https://images.kabum.com.br/produtos/fotos/483848/ssd-1tb-kbm-gaming-sata-iii-leitura-550-mb-s-gravacao-500-mb-s-kgssd100100_1700658416_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 486532,
+        "title": "Placa de Vídeo X 7800 XT GAMING PULSE Sapphire AMD RADEON, 16GB GDDR6 DUAL HDMI - 11330-02-20G",
+        "manufacturer": "Sapphire",
+        "price": 438635,
+        "image": "https://images.kabum.com.br/produtos/fotos/486532/placa-de-video-x-7800-xt-gaming-pulse-sapphire-amd-radeon-16gb-gddr6-dual-hdmi-11330-02-20g_1698695940_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 486540,
+        "title": "Placa de Vídeo RX 7700 XT GAMING Sapphire PULSE AMD RADEON, 12GB GDDR6 DUAL HDMI - 11335-04-20G",
+        "manufacturer": "Sapphire",
+        "price": 397726,
+        "image": "https://images.kabum.com.br/produtos/fotos/486540/placa-de-video-rx-7700-xt-gaming-sapphire-pulse-amd-radeon-12gb-gddr6-dual-hdmi-11335-04-20g_1707994054_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 495981,
+        "title": "Placa Mãe ASRock H610M-HVS Intel, M-ATX, DDR4, Socket LGA 1700, HDMI, VGA",
+        "manufacturer": "ASRock",
+        "price": 56817,
+        "image": "https://images.kabum.com.br/produtos/fotos/495981/placa-mae-asrock-h610m-hvs-intel-m-atx-ddr4-socket-lga-1700-hdmi-vga_1698088130_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 495998,
+        "title": "Fonte Gamemax GX850 PRO, 850W, 80 Plus Gold, PCIe 5.0, Full Modular, Branco - GX850PWTPS18810BR",
+        "manufacturer": "Gamemax",
+        "price": 90907,
+        "image": "https://images.kabum.com.br/produtos/fotos/495998/fonte-gamemax-gx850-pro-850w-80-plus-gold-pcie-5-0-full-modular-branco-gx850pwtps18810br_1701171685_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 495999,
+        "title": "Fonte Gamemax GX850 PRO, 850W, 80 Plus Gold, Modular, PFC Ativo, com cabo, Preto - GX850PBKPS18810BR",
+        "manufacturer": "Gamemax",
+        "price": 82953,
+        "image": "https://images.kabum.com.br/produtos/fotos/495999/fonte-gamemax-gx850-pro-850w-80-plus-gold-modular-pfc-ativo-com-cabo-preto-gx850pbkps18810br_1716909226_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 496001,
+        "title": "Fonte Gamemax GX650, 650W, 80 Plus Gold, Modular, PFC Ativo, com cabo, Preto - GX650MBKV1S7710BR",
+        "manufacturer": "Gamemax",
+        "price": 66413,
+        "image": "https://images.kabum.com.br/produtos/fotos/496001/fonte-gamemax-gx650-650w-80-plus-gold-full-modular-preto-gx650mbkv1s7710br_1700596663_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 496004,
+        "title": "Fonte Gamemax GX600, 600W, 80 Plus Gold, PFC Ativo, com cabo, Preto - GX600WBKPSS7710BR",
+        "manufacturer": "Gamemax",
+        "price": 46590,
+        "image": "https://images.kabum.com.br/produtos/fotos/496004/fonte-gamemax-gx600-600w-80-plus-gold-pfc-ativo-com-cabo-preto-gx600wbkpss7710br_1716910634_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 497179,
+        "title": "HD WD 4TB Purple, 3.5', SATA - WD43PURZ",
+        "manufacturer": "WD",
+        "price": 87499,
+        "image": "https://images.kabum.com.br/produtos/fotos/497179/hd-wd-4tb-purple-3-5-sata-wd43purz_1698145721_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 498969,
+        "title": "Placa Mãe MSI MPG Z790 Edge TI Max, ATX, DDR5, Wi-Fi, RGB, Bluetooth",
+        "manufacturer": "MSI",
+        "price": 438067,
+        "image": "https://images.kabum.com.br/produtos/fotos/498969/placa-mae-msi-mpg-z790-edge-ti-max-atx-ddr5-wi-fi-rgb-bluetooth_1706116421_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 499176,
+        "title": "Fonte Redragon RGPS, 500W, 80 Plus Bronze - GC-PS001-1",
+        "manufacturer": "Redragon",
+        "price": 34090,
+        "image": "https://images.kabum.com.br/produtos/fotos/499176/fonte-redragon-rgps-500w-80-plus-bronze-gc-ps001-1_1696964141_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 513870,
+        "title": "Placa Mãe Gigabyte B650M Gaming (Rev.1.0), AMD AM5, mATX, DDR5, RGB, WiFi - B650M GAMING WIFI",
+        "manufacturer": "Gigabyte",
+        "price": 123294,
+        "image": "https://images.kabum.com.br/produtos/fotos/513870/placa-mae-gigabyte-b650m-gaming-amd-am5-matx-ddr5-rgb-wifi-b650m-gaming-wifi_1710355766_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 514535,
+        "title": "Placa de Vídeo RX7600 OC ASUS AMD Dual Radeon, 8GB GDDR6 - 90YV0IH2-M0NA00",
+        "manufacturer": "ASUS",
+        "price": 204544,
+        "image": "https://images.kabum.com.br/produtos/fotos/514535/placa-de-video-rx7600-asus-dual-radeon-8gb-gddr6-90yv0ih2-m0na00_1709209199_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 514895,
+        "title": "Fonte XPG Core Reactor II VE, 750W, 80 Plus Gold, Modular, PFC Ativo, Preto - 75261425",
+        "manufacturer": "XPG",
+        "price": 90908,
+        "image": "https://images.kabum.com.br/produtos/fotos/514895/fonte-xpg-core-reactor-ii-ve-750w-75261425_1721238276_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 514896,
+        "title": "Fonte XPG Core Reactor II VE, 850W, 80 Plus Gold, Modular, PFC Ativo, Preto - 75261436",
+        "manufacturer": "XPG",
+        "price": 102272,
+        "image": "https://images.kabum.com.br/produtos/fotos/514896/fonte-xpg-core-reactor-ii-ve-850w-75261436_1721238617_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 514897,
+        "title": "Fonte XPG Core Reactor II 650G-BKCBR, 650W, 80 Plus Gold, Modular, PFC Ativo - 75261175",
+        "manufacturer": "XPG",
+        "price": 70453,
+        "image": "https://images.kabum.com.br/produtos/fotos/514897/fonte-xpg-core-reactor-ii-650g-bkcbr-650w-80-plus-gold-modular-pfc-ativo-75261175_1710339203_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 514899,
+        "title": "Fonte XPG Core Reactor II 850G-BKCBR, 850W, 80 Plus Gold, Modular, PFC Ativo - 75261198",
+        "manufacturer": "XPG",
+        "price": 102272,
+        "image": "https://images.kabum.com.br/produtos/fotos/514899/fonte-xpg-core-reactor-ii-850g-bkcbr-850w-80-plus-gold-modular-pfc-ativo-75261198_1710342012_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 516055,
+        "title": "Fonte Corsair CX Series CX550, 550W, 80 Plus Bronze, Com Cabo, Preto - CP-9020277-BR",
+        "manufacturer": "Corsair",
+        "price": 45453,
+        "image": "https://images.kabum.com.br/produtos/fotos/516055/fonte-corsair-cx-series-cx550-550w-80-plus-bronze-sem-cabo-preto-cp-9020277-br_1714479690_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 516059,
+        "title": "Fonte Corsair RMe Series RM850e, 850W, 80 Plus Gold, Modular, Sem Cabo, Preto - CP-9020263-BR",
+        "manufacturer": "Corsair",
+        "price": 95881,
+        "image": "https://images.kabum.com.br/produtos/fotos/516059/fonte-corsair-rme-series-rm850e-850w-80-plus-gold-modular-sem-cabo-preto-cp-9020263-br_1714497940_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 517749,
+        "title": "Placa de Vídeo RTX 4070 Super Gigabyte Gaming OC NVIDIA GeForce, 12GB GDDR6, DLSS, Ray Tracing - GV-N407SGaming OC-12GD",
+        "manufacturer": "Gigabyte",
+        "price": 534090,
+        "image": "https://images.kabum.com.br/produtos/fotos/517749/placa-de-video-rtx-4070-super-gigabyte-gaming-oc-nvidia-geforce-12gb-gddr6-dlss-ray-tracing-gv-n407sgaming-oc-12gd_1707241123_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 517750,
+        "title": "Placa de Vídeo RTX 4070 Super Gigabyte Eagle OC NVIDIA GeForce, 12GB GDDR6, DLSS, Ray Tracing - GV-N407SEAGLE OC-12GD",
+        "manufacturer": "Gigabyte",
+        "price": 488635,
+        "image": "https://images.kabum.com.br/produtos/fotos/517750/placa-de-video-rtx-4070-super-gigabyte-eagle-oc-nvidia-geforce-12gb-gddr6-dlss-ray-tracing-gv-n407seagle-oc-12gd_1707243797_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 517751,
+        "title": "Placa de Vídeo RTX 4070 Super Gigabyte Windforce NVIDIA GeForce, 12GB GDDR6X, DLSS, Ray Tracing - GV-N407SWF3OC-12GD",
+        "manufacturer": "Gigabyte",
+        "price": 477272,
+        "image": "https://images.kabum.com.br/produtos/fotos/517751/placa-de-video-rtx-4070-super-gigabyte-windforce-nvidia-geforce-12gb-gddr6-dlss-ray-tracing-gv-n407swf3-12gd_1707245338_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 520364,
+        "title": "Processador AMD Ryzen 7 8700G, 4.2GHz (5.1GHz Max Turbo), Cachê 8MB, Octa-Core, 16 Threads, AM5, Vídeo Integrado - 100-100001236BOX",
+        "manufacturer": "AMD",
+        "price": 222221,
+        "image": "https://images.kabum.com.br/produtos/fotos/520364/processador-amd-ryzen-7-8700g-3-5-ghz-5-0ghz-max-turbo-cache-6mb-6-nucleos-12-threads-am5-video-integrado-100-100001236box_1706707877_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 520365,
+        "title": "Processador AMD Ryzen 5 8600G, 4.3 GHz (5.0GHz Max Turbo), Cachê 6MB, 6 Núcleos, 12 Threads, AM5, Vídeo Integrado - 100-100001237BOX",
+        "manufacturer": "AMD",
+        "price": 158946,
+        "image": "https://images.kabum.com.br/produtos/fotos/520365/processador-amd-ryzen-5-8600g-100-100001237box_1706637579_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 520366,
+        "title": "Processador AMD Ryzen 5 8500G, 3.5 GHz (5.0GHz Max Turbo), Cachê 22MB, 6 Núcleos, 12 Threads, AM5, Vídeo Integrado - 100-100000931BOX",
+        "manufacturer": "AMD",
+        "price": 163072,
+        "image": "https://images.kabum.com.br/produtos/fotos/520366/processador-amd-ryzen-5-8500g-3-5-ghz-5-0ghz-max-turbo-cache-6mb-6-nucleos-12-threads-am5-video-integrado-100-100000931box_1706707228_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 520501,
+        "title": "Placa de Vídeo ASUS TUF Gaming AMD Radeon RX 7800 XT OC Edition, 16GB GDDR6, RGB, Ray Tracing - 90YV0JJ0-M0NA00",
+        "manufacturer": "ASUS",
+        "price": 461362,
+        "image": "https://images.kabum.com.br/produtos/fotos/520501/placa-de-video-rx-7800-xt-asus-tuf-o16g-gaming-16gb-gddr6-argb-90yv0jj0-m0na00_1711461336_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 520724,
+        "title": "Placa de Vídeo RTX4060 1-Click OC 2X TecLab Lite GALAX NVIDIA GeForce, 8GB GDDR6,  G-SYNC, DLSS, Ray Tracing",
+        "manufacturer": "Galax",
+        "price": 224999,
+        "image": "https://images.kabum.com.br/produtos/fotos/520724/placa-de-video-rtx4060-1-click-oc-2x-teclab-lite-galax-nvidia-geforce-_1708435296_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 520770,
+        "title": "Placa de Vídeo RTX 4060 Gaming Verto OC Dual Fan PNY NVIDIA GeForce, 08GB GDDR6, DLSS 3, Ray Tracing - VCG40608DFXPB1-O",
+        "manufacturer": "Pny",
+        "price": 227272,
+        "image": "https://images.kabum.com.br/produtos/fotos/520770/placa-de-video-rtx-4060-gaming-verto-oc-dual-fan-pny-nvidia-geforce-08gb-gddr6x-dlss-3-ray-tracing-vcg40608dfxpb1-o_1714477449_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 520777,
+        "title": "Placa de Vídeo Radeon RX 7600 XT Hellhound AMD, 16GB GDDR6 - RX7600XT 16G-L/OC",
+        "manufacturer": "Powercolor",
+        "price": 272727,
+        "image": "https://images.kabum.com.br/produtos/fotos/520777/placa-de-video-radeon-rx-7600-xt-hellhound-amd-16gb-gddr6-rx7600xt-16g-l-oc_1709582107_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 521059,
+        "title": "Placa Mãe Asus ROG MAXIMUS Z790 FORMULA, INTEL, Z790, ATX, DDR5 - 90MB1FS0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 729544,
+        "image": "https://images.kabum.com.br/produtos/fotos/521059/placa-mae-asus-rog-maximus-z790-formula-intel-z790-atx-ddr5-90mb1fs0-m0eay0_1716476901_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 521060,
+        "title": "Placa Mãe Asus ROG MAXIMUS Z790 APEX ENCORE, INTEL, Z790, ATX, DDR5 - 90MB1FX0-M0AAY0",
+        "manufacturer": "ASUS",
+        "price": 657953,
+        "image": "https://images.kabum.com.br/produtos/fotos/521060/placa-mae-asus-rog-maximus-z790-apex-encore-intel-z790-atx-ddr5-90mb1fx0-m0aay0_1716476715_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 521061,
+        "title": "Placa Mãe Asus ROG MAXIMUS Z790 DARK HERO, INTEL, Z790, ATX, DDR5 - 90MB1F90-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 707953,
+        "image": "https://images.kabum.com.br/produtos/fotos/521061/placa-mae-asus-rog-maximus-z790-dark-hero-intel-z790-atx-ddr5-90mb1f90-m0eay0_1716481297_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 521062,
+        "title": "Placa Mãe Asus ROG STRIX Z790-A GAMING WIFI II, INTEL, Z790, ATX, DDR5 - 90MB1FN0-M0AAY0",
+        "manufacturer": "ASUS",
+        "price": 428976,
+        "image": "https://images.kabum.com.br/produtos/fotos/521062/placa-mae-asus-rog-strix-z790-a-gaming-wifi-ii-intel-z790-atx-ddr5-90mb1fn0-m0aay0_1723750263_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 521063,
+        "title": "Placa Mãe Asus ROG STRIX Z790-E GAMING WIFI II, INTEL, Z790, ATX, DDR5 - 90MB1FC0-M0AAY0",
+        "manufacturer": "ASUS",
+        "price": 528408,
+        "image": "https://images.kabum.com.br/produtos/fotos/521063/placa-mae-asus-rog-strix-z790-e-gaming-wifi-ii-intel-z790-atx-ddr5-90mb1fc0-m0aay0_1716476053_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 521094,
+        "title": "Fonte EVGA 500 BV, 500W, 80 Plus Bronze, Bivolt - 100-BV-0500-K1",
+        "manufacturer": "Evga",
+        "price": 37499,
+        "image": "https://images.kabum.com.br/produtos/fotos/521094/fonte-evga-500-bv-500w-80-plus-bronze-bivolt-100-bv-0500-k1_1713805099_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 522531,
+        "title": "Placa de vídeo RTX 4060 ASUS Dual 8G EVO OC NVIDIA GeForce, 8GB GDDR6, G-SYNC, Ray Tracing - 90YV0JC7-M0NA00",
+        "manufacturer": "ASUS",
+        "price": 241110,
+        "image": "https://images.kabum.com.br/produtos/fotos/522531/placa-de-video-rtx-4060-asus-dual-o8g-evo-nvidia-geforce-8gb-gddr6-g-sync-ray-tracing-90yv0jc7-m0na00_1711036187_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 525054,
+        "title": "Fonte Gamer Rise Mode Zeus 1000W, Platinum, Full Modular, PFC Ativo, Preto - RM-PSU-01-PA-1000",
+        "manufacturer": "Rise Mode",
+        "price": 129411,
+        "image": "https://images.kabum.com.br/produtos/fotos/525054/fonte-gamer-rise-mode-zeus-1000w-platinum-full-modular-pfc-ativo-preto-rm-psu-01-pa-1000_1724078628_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 525602,
+        "title": "Placa Mãe Gigabyte B760M Gaming DDR4, Intel LGA 1700 MATX, DDR4 - B760M GAMING DDR4",
+        "manufacturer": "Gigabyte",
+        "price": 123294,
+        "image": "https://images.kabum.com.br/produtos/fotos/525602/placa-mae-gigabyte-b760m-gaming-ddr4-intel-lga-1700-matx-ddr4-b760m-gaming-ddr4_1716493708_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 525888,
+        "title": "Placa de Vídeo RX 7600 XT GAMING OC 16G AMD Radeon Gigabyte, 16GB GDDR6, 128bits, RGB - GV-R76XTGAMING OC-16GD",
+        "manufacturer": "Gigabyte",
+        "price": 295453,
+        "image": "https://images.kabum.com.br/produtos/fotos/525888/placa-de-video-rx-7600-xt-gaming-oc-16g-amd-radeon-gigabyte-16gb-gddr6-128bits-rgb-gv-r76xtgaming-oc-16gd_1712170704_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 529101,
+        "title": "Placa de Vídeo RX 7600 XT OC ASUS AMD Radeon Dual O16G, 16GB GDDR6 - 90YV0K21-M0NA00",
+        "manufacturer": "ASUS",
+        "price": 295454,
+        "image": "https://images.kabum.com.br/produtos/fotos/529101/placa-de-video-rx-7600-xt-asus-amd-radeon-dual-o16g-16gb-gddr6-90yv0k21-m0na00_1713956735_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 531143,
+        "title": "Fonte F3 FT-500, 500W, 80 Plus White, Bivolt, Com Cabo, Preto - FT-500",
+        "manufacturer": "F3",
+        "price": 21590,
+        "image": "https://images.kabum.com.br/produtos/fotos/531143/fonte-f3-ft-500-500w-80-plus-white-bivolt-com-cabo-preto-ft-500_1714416484_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 534674,
+        "title": "Placa Mãe Gigabyte B650M D3HP, AMD AM5, Micro ATX, DDR5",
+        "manufacturer": "Gigabyte",
+        "price": 126110,
+        "image": "https://images.kabum.com.br/produtos/fotos/534674/placa-mae-gigabyte-b650m-d3hp-amd-am5-micro-atx-ddr5_1721909571_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 536184,
+        "title": "Fonte Acer AC650 650W, 80 Plus Bronze, Modular, PFC Ativo, Com Cabo, Bivolt, Preto - AC650",
+        "manufacturer": "Acer",
+        "price": 45453,
+        "image": "https://images.kabum.com.br/produtos/fotos/536184/fonte-acer-ac650-650w-80-plus-bronze-modular-pfc-ativo-com-cabo-bivolt-preto-ac650_1715008513_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 536185,
+        "title": "Fonte Acer AC750 750W, 80 Plus Bronze, Modular, PFC Ativo, Com Cabo, Bivolt, Preto - AC750",
+        "manufacturer": "Acer",
+        "price": 52272,
+        "image": "https://images.kabum.com.br/produtos/fotos/536185/fonte-acer-ac750-750w-80-plus-bronze-modular-pfc-ativo-com-cabo-bivolt-preto-ac750_1715015744_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 542965,
+        "title": "Placa de Vídeo RTX 4070 TI Super ASUS NVIDIA GeForce TUF 16G Gaming OC, 16GB GDDR6X, DLSS, Ray Tracing, G-Sync - 90YV0KF0-M0NA00",
+        "manufacturer": "ASUS",
+        "price": 704544,
+        "image": "https://images.kabum.com.br/produtos/fotos/542965/placa-de-video-rtx-4070-ti-super-asus-nvidia-geforce-tuf-o16g-gaming-16gb-gddr6x-dlss-ray-tracing-g-sync-90yv0kf0-m0na00_1716841589_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 543043,
+        "title": "Fonte Gamdias Cyclops M1-550B 550W, 80 Plus Bronze",
+        "manufacturer": "Gamdias",
+        "price": 34090,
+        "image": "https://images.kabum.com.br/produtos/fotos/543043/fonte-gamdias-cyclops-m1-550b-550w-80-plus-bronze_1715112291_g.jpg",
+        "type": "psu"
+    },
+    {
+        "id": 544599,
+        "title": "HD Interno WD Black, 6TB, SATA, 3.5\", 7.200RPM - WD6004FZWX",
+        "manufacturer": "WD",
+        "price": 110226,
+        "image": "https://images.kabum.com.br/produtos/fotos/544599/hd-interno-wd-black-6tb-sata-3-5-7-200rpm-wd6004fzwx_1720620988_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 545903,
+        "title": "Gabinete Gamer Redragon Wideload Extreme, Mid Tower, ATX, Lateral em Vidro Temperado, Branco - CA-605W",
+        "manufacturer": "Redragon",
+        "price": 90898,
+        "image": "https://images.kabum.com.br/produtos/fotos/545903/gabinete-gamer-redragon-wideload-extreme-mid-tower-atx-lateral-em-vidro-temperado-branco-ca-605w_1714074759_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 546893,
+        "title": "Placa de Vídeo RTX 4060 TI O8G EVO OC ASUS NVIDIA GeForce, 8GB GDDR6, DLSS3, Ray Tracing, G-Sync",
+        "manufacturer": "ASUS",
+        "price": 321589,
+        "image": "https://images.kabum.com.br/produtos/fotos/546893/placa-de-video-rtx-4060-ti-o8g-evo-oc-asus-nvidia-geforce-8gb-gddr6-dlss3-ray-tracing-g-sync_1722431209_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 548931,
+        "title": "Placa Mãe Asus ROG Strix Z790-H Gaming, Intel, Z790, DDR5, Wi-Fi - 90MB1E10-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 349431,
+        "image": "https://images.kabum.com.br/produtos/fotos/548931/placa-mae-asus-rog-strix-z790-h-gaming-intel-z790-ddr5-wi-fi-90mb1e10-m0eay0_1723062758_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 548932,
+        "title": "Placa Mãe Asus Prime H770-Plus, Intel, ATX, DDR5 - 90MB1EE0-M0EAY0",
+        "manufacturer": "ASUS",
+        "price": 171590,
+        "image": "https://images.kabum.com.br/produtos/fotos/548932/placa-mae-asus-prime-h770-plus-intel-atx-ddr5-90mb1ee0-m0eay0_1723041215_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 550417,
+        "title": "Placa de Vídeo RTX 4060 8G V2 Gaming ATS OC ASUS NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - 90YV0JM2-M0NA00",
+        "manufacturer": "ASUS",
+        "price": 253408,
+        "image": "https://images.kabum.com.br/produtos/fotos/550417/placa-de-video-rtx-4060-o8g-v2-gaming-ats-asus-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-90yv0jm2-m0na00_1719508167_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 551013,
+        "title": "SSD Lexar Internal NS100, 1TB, SATA 2.5\" VAL, Leitura 550MB/s, Cinza - LNS100-1TRBNA",
+        "manufacturer": "Lexar",
+        "price": 46590,
+        "image": "https://images.kabum.com.br/produtos/fotos/551013/ssd-lexar-internal-ns100-1tb-sata-2-5-val-leitura-550mb-s-cinza-lns100-1trbna_1718116486_g.jpg",
+        "type": "storage"
+    },
+    {
+        "id": 571927,
+        "title": "Processador AMD Ryzen 5 8400F, 4.2 GHz (4.7 GHz Max Turbo), Cachê 22MB, AM5, 6 Núcleos, 12 Threads - 100-100001591BOX",
+        "manufacturer": "AMD",
+        "price": 144443,
+        "image": "https://images.kabum.com.br/produtos/fotos/571927/processador-amd-ryzen-5-8400f-4-2-ghz-4-7-ghz-max-turbo-cache-22mb-am5-6-nucleos-12-threads-100-100001591box_1715700198_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 571928,
+        "title": "Processador AMD Ryzen 7 8700F, 4.1 GHz (5.0 GHz Max Turbo), Cachê 24MB, 8 Núcleos, 16 Threads, AM5 - 100-100001590BOX",
+        "manufacturer": "AMD",
+        "price": 211110,
+        "image": "https://images.kabum.com.br/produtos/fotos/571928/processador-amd-ryzen-7-8700f-4-1-ghz-5-0-ghz-max-turbo-cache-24mb-8-nucleos-16-threads-am5-100-100001590box_1715706806_g.jpg",
+        "type": "cpu"
+    },
+    {
+        "id": 576425,
+        "title": "Placa de Vídeo RX 7900XTX BLACK Gaming 24G XFX Speedster MERC310 AMD Radeon, 24GB DDR6, 3 FAN - RX-79XMERCB9",
+        "manufacturer": "XFX",
+        "price": 749999,
+        "image": "https://images.kabum.com.br/produtos/fotos/576425/placa-de-video-rx-7900xtx-black-gaming-24g-xfx-speedster-merc310-radeon-24gb-ddr6-hdm-3-fan-rx-79xmercb9_1719604084_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 576825,
+        "title": "Placa de Vídeo RTX 4070 Super EX Gamer Click OC GALAX GeForce, 12GB GDDR6X, DLSS3, G-Sync - 47S0M7MD7JBK",
+        "manufacturer": "Galax",
+        "price": 499999,
+        "image": "https://images.kabum.com.br/produtos/fotos/576825/placa-de-video-rtx-4070-super-ex-gamer-click-oc-galax-geforce-12gb-gddr6x-dlss3-g-sync-47s0m7md7jbk_1721917532_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 582110,
+        "title": "Placa Mãe Gigabyte H610M H V3, Intel LGA 1700, M-ATX, DDR4, M.2",
+        "manufacturer": "Gigabyte",
+        "price": 76135,
+        "image": "https://images.kabum.com.br/produtos/fotos/582110/placa-mae-gigabyte-h610m-h-v3-intel-lga-1700-m-atx-ddr4-m-2-_1716836946_g.jpg",
+        "type": "motherboard"
+    },
+    {
+        "id": 610854,
+        "title": "Placa de Vídeo RX 7900 XTX TC2400 AsRock AMD Radeon, 24GB GDDR6, Backplate ARGB, Polychrome Sync - 90-GA3ZZZ-00UANF",
+        "manufacturer": "ASRock",
+        "price": 795453,
+        "image": "https://images.kabum.com.br/produtos/fotos/610854/placa-de-video-rx-7900-xtx-tc2400-asrock-amd-radeon-24gb-gddr6-backplate-argb-polychrome-sync-90-ga3zzz-00uanf_1720705000_g.jpg",
+        "type": "gpu"
+    },
+    {
+        "id": 612461,
+        "title": "Gabinete Gamer C3-Tech Aquarius MT-G850WH, Mid Tower ATX, Lateral e Frontal em Vidro Temperado, Branco - MT-G850WH",
+        "manufacturer": "C3Tech",
+        "price": 56806,
+        "image": "https://images.kabum.com.br/produtos/fotos/612461/gabinete-gamer-c3-tech-aquarius-mt-g850wh-mid-tower-atx-lateral-e-frontal-em-vidro-temperado-branco-mt-g850wh_1722631015_g.jpg",
+        "type": "case"
+    },
+    {
+        "id": 618357,
+        "title": "Fonte Cougar Gaming Atlas 750, 750W, 80 Plus Bronze, Preto - 31AT075003P01",
+        "manufacturer": "Cougar",
+        "price": 55554,
+        "image": "https://images.kabum.com.br/produtos/fotos/618357/fonte-cougar-gaming-atlas-750-750w-80-plus-bronze-preto-31at075003p01_1723754703_g.jpg",
+        "type": "psu"
+    }
+]
