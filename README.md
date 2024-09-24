@@ -4,6 +4,11 @@ Sistema desenvolvido para a disciplina de Padrões de Projetos de Software Orien
 
 Este projeto tem como objetivo fornecer uma plataforma para a montagem de computadores personalizados, permitindo aos usuários selecionar e combinar diferentes componentes de hardware, como CPU, GPU, memória, armazenamento, entre outros. O sistema utiliza diversos padrões de projeto para garantir flexibilidade, extensibilidade e manutenção do código, incluindo os padrões State, Strategy, Factory e Adapter.
 
+Equipe
+- Alexsandro Matias de Almeida
+- Bruno Henrique de Araújo Souza
+- Iago Silva
+
 Funcionalidades principais:
 - Seleção de componentes de hardware (State e Adapter)
 - Aplicação de cupons de desconto (Strategy e Factory)
